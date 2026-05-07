@@ -28,10 +28,11 @@ _No frameworks • No tracking • No distractions • Works offline_
 
 This site is designed for GitHub Pages:
 
-1. Push to your repository
-2. Enable GitHub Pages in Settings → Pages
-3. Set source to `main` branch / root
-4. Visit `https://<username>.github.io/<repo-name>/`
+1. Push your code to GitHub
+2. Enable GitHub Pages in **Settings** → **Pages** → Set source to **GitHub Actions**
+3. Your site will be live at `https://<username>.github.io/<repo-name>/`
+
+📖 **For detailed setup instructions, see [GITHUB_PAGES_SETUP.md](doc/GITHUB_PAGES_SETUP.md)**
 
 ## Local Development
 
@@ -41,11 +42,27 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`
 
-## License
+## 📄 License
 
-Code: MIT
-Content: Public devotional material
+- **Code**: [MIT License](LICENSE) - Free to use, modify, and distribute
+- **Content**: Public devotional material - Share freely for the sake of Allah
+
+## 🤝 Contributing
+
+Contributions are welcome! Whether it's fixing bugs, improving UI, or adding features - feel free to open an issue or submit a pull request.
 
 ---
 
-_1000 supplications, gathered for the Day of Arafah. May Allah accept._
+<div align="center">
+
+### 🕌 _1000 supplications, gathered for the Day of Arafah_
+
+**May Allah accept from us and from you**
+
+_Ameen_
+
+---
+
+Made with ❤️ for the Ummah | [Report an Issue](https://github.com/faisaltheparttimecoder/1000-duas-for-arafah/issues)
+
+</div>
