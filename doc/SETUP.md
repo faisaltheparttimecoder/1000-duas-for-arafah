@@ -23,18 +23,18 @@ The site currently has sample data. To add all 1000 Duas for Arafah:
 
 1. **Create the source file:**
 
-   ```bash
-   touch scripts/duas_raw.txt
-   ```
+    ```bash
+    touch scripts/duas_raw.txt
+    ```
 
 2. **Copy all 1000 Duas for Arafah** (the complete list you provided) into `scripts/duas_raw.txt`
-   - Format: One dua per line
-   - Example: `1. O Allah, increase me in Imaan...`
+    - Format: One dua per line
+    - Example: `1. O Allah, increase me in Imaan...`
 
 3. **Run the processor:**
-   ```bash
-   node scripts/process-duas.js
-   ```
+    ```bash
+    node scripts/process-duas.js
+    ```
 
 This will generate `data/duas.json` with all 1000 Duas for Arafah properly formatted.
 
@@ -44,12 +44,12 @@ Edit `data/duas.json` directly following this structure:
 
 ```json
 [
-  {
-    "id": 1,
-    "text": "O Allah, increase me in Imaan and make it firm in my heart.",
-    "sectionId": "imaan-worship",
-    "sectionTitle": "Imaan & Worship"
-  }
+    {
+        "id": 1,
+        "text": "O Allah, increase me in Imaan and make it firm in my heart.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "Imaan & Worship"
+    }
 ]
 ```
 
@@ -71,19 +71,19 @@ npx http-server -p 8000
 
 2. **Initialize and push:**
 
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: 1000 Duas for Arafah"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/duas-arafah.git
-   git push -u origin main
-   ```
+    ```bash
+    git init
+    git add .
+    git commit -m "Initial commit: 1000 Duas for Arafah"
+    git branch -M main
+    git remote add origin https://github.com/YOUR_USERNAME/duas-arafah.git
+    git push -u origin main
+    ```
 
 3. **Enable GitHub Pages:**
-   - Go to Settings → Pages
-   - Source: Deploy from branch `main` / root
-   - Save
+    - Go to Settings → Pages
+    - Source: Deploy from branch `main` / root
+    - Save
 
 4. **Visit:** `https://YOUR_USERNAME.github.io/duas-arafah/`
 
@@ -103,8 +103,8 @@ Edit `assets/css/styles.css`:
 
 ```css
 :root {
-  --accent: #2f5d4f; /* Your brand color */
-  --bg: #fbf9f4; /* Background */
+    --accent: #2f5d4f; /* Your brand color */
+    --bg: #fbf9f4; /* Background */
 }
 ```
 

@@ -132,10 +132,10 @@
 ### 7. Performance Testing
 
 - [ ] Run Lighthouse audit
-  - Performance: Target 95+
-  - Accessibility: Target 100
-  - Best Practices: Target 100
-  - SEO: Target 100
+    - Performance: Target 95+
+    - Accessibility: Target 100
+    - Best Practices: Target 100
+    - SEO: Target 100
 - [ ] Check total page weight (<200 KB)
 - [ ] Verify images optimized (if any)
 - [ ] Test on slow 3G connection

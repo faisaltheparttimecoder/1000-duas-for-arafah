@@ -14,10 +14,10 @@ This guide will help you deploy your 1000 Duas app to GitHub Pages.
 2. Click the **"+"** icon in the top right corner
 3. Select **"New repository"**
 4. Fill in the repository details:
-   - **Repository name**: `Dua` (or your preferred name)
-   - **Description**: "1000 Duas for Arafah - A collection of supplications"
-   - **Visibility**: Choose Public or Private
-   - **Do NOT** initialize with README, .gitignore, or license (we already have these)
+    - **Repository name**: `Dua` (or your preferred name)
+    - **Description**: "1000 Duas for Arafah - A collection of supplications"
+    - **Visibility**: Choose Public or Private
+    - **Do NOT** initialize with README, .gitignore, or license (we already have these)
 5. Click **"Create repository"**
 
 ## Step 2: Push Your Code to GitHub
@@ -49,7 +49,7 @@ git push -u origin main
 2. Click on **"Settings"** tab
 3. In the left sidebar, click **"Pages"**
 4. Under **"Build and deployment"**:
-   - **Source**: Select **"GitHub Actions"**
+    - **Source**: Select **"GitHub Actions"**
 5. That's it! The workflow will automatically deploy your site
 
 ## Step 4: Wait for Deployment
@@ -94,7 +94,7 @@ If you want to use a custom domain like `duas.example.com`:
 2. Under **"Custom domain"**, enter your domain
 3. Add a `CNAME` file to your repository root with your domain
 4. Configure your DNS provider:
-   - Add a `CNAME` record pointing to `YOUR_USERNAME.github.io`
+    - Add a `CNAME` record pointing to `YOUR_USERNAME.github.io`
 
 ## Troubleshooting
 

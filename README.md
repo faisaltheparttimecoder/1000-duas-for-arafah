@@ -17,12 +17,13 @@ _No frameworks • No tracking • No distractions • Works offline_
 
 ## Features
 
-- Three view modes: cards, list, and table
-- Live search across all duas
-- Dark and light themes with system preference support
-- Fully keyboard navigable
-- Offline-capable with service worker
-- Accessible (WCAG 2.1 AA)
+- **📥 PDF Download** - Export all 1000 duas as a beautifully formatted PDF, organized by sections
+- **🎨 Three view modes** - Cards, list, and table layouts
+- **🔍 Live search** - Instantly find duas across all content
+- **🌓 Dark & light themes** - Automatic system preference support
+- **⌨️ Keyboard navigation** - Fully accessible with keyboard shortcuts
+- **📴 Offline-capable** - Works without internet after first load
+- **♿ Accessible** - WCAG 2.1 AA compliant
 
 ## Deploy
 

@@ -118,12 +118,12 @@ duas-arafah/
 
 ```json
 [
-  {
-    "id": 1,
-    "text": "O Allah, increase me in Imaan and make it firm in my heart.",
-    "sectionId": "imaan-worship",
-    "sectionTitle": "Imaan & Worship"
-  }
+    {
+        "id": 1,
+        "text": "O Allah, increase me in Imaan and make it firm in my heart.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "Imaan & Worship"
+    }
 ]
 ```
 
@@ -131,13 +131,13 @@ duas-arafah/
 
 ```json
 [
-  {
-    "id": "imaan-worship",
-    "title": "Imaan & Worship",
-    "range": [1, 50],
-    "count": 50,
-    "order": 1
-  }
+    {
+        "id": "imaan-worship",
+        "title": "Imaan & Worship",
+        "range": [1, 50],
+        "count": 50,
+        "order": 1
+    }
 ]
 ```
 
@@ -221,20 +221,20 @@ The active view persists in `localStorage` under `duas:view`.
 - Elegant dark design with semi-transparent background and backdrop blur.
 - Max-width 500px, centered, with rounded corners (24px radius).
 - **Header (centered)**:
-  - "No. X / 1000" in muted text
-  - Section badge below in pill shape with uppercase text
+    - "No. X / 1000" in muted text
+    - Section badge below in pill shape with uppercase text
 - **Body (centered)**:
-  - "In the name of Allah" in golden italic text
-  - Dua text in large serif font (Georgia)
-  - "— Ameen —" in golden italic text
+    - "In the name of Allah" in golden italic text
+    - Dua text in large serif font (Georgia)
+    - "— Ameen —" in golden italic text
 - **Navigation buttons** (above footer):
-  - Two elongated pill-shaped buttons (44px × 64px)
-  - Previous/Next navigation centered with gap
-  - Positioned between content and action buttons
+    - Two elongated pill-shaped buttons (44px × 64px)
+    - Previous/Next navigation centered with gap
+    - Positioned between content and action buttons
 - **Footer actions**:
-  - Three buttons: Star, Copy, Share
-  - Icon above label, evenly spaced
-  - Transparent background with hover effects
+    - Three buttons: Star, Copy, Share
+    - Icon above label, evenly spaced
+    - Transparent background with hover effects
 - Close button (×) in top-right corner
 - `Esc` closes; arrow keys navigate prev/next; click outside closes.
 - Deep-linkable: `?dua=42` opens dua 42 on load.
@@ -308,15 +308,15 @@ Define as CSS custom properties under `:root` and override under `[data-theme="d
 5. **Dua modal** with copy, share, prev/next, deep-linking.
 6. **Theme toggle** with system / light / dark.
 7. **Keyboard shortcuts:**
-   - `/` focus search
-   - `Esc` close modal / clear search
-   - `←` / `→` navigate duas in modal
-   - `g` then `s` jump to sections sidebar (focus first item)
-   - `t` cycle theme
+    - `/` focus search
+    - `Esc` close modal / clear search
+    - `←` / `→` navigate duas in modal
+    - `g` then `s` jump to sections sidebar (focus first item)
+    - `t` cycle theme
 8. **Copy individual dua** to clipboard with a small toast confirmation.
 9. **Deep linking:**
-   - `#section-<id>` scrolls to a section
-   - `?dua=<n>` opens that dua's modal on load
+    - `#section-<id>` scrolls to a section
+    - `?dua=<n>` opens that dua's modal on load
 10. **Offline:** service worker caches `index.html`, CSS, JS, JSON, fonts on first visit.
 11. **404-safe:** if `?dua=9999` is passed, fall through silently and show the home view.
 12. **Print stylesheet:** `@media print` strips chrome, shows duas as numbered paragraphs grouped by section.

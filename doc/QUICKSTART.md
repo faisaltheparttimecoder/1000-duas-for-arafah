@@ -54,10 +54,10 @@ Edit `data/duas.json` directly following this format:
 
 ```json
 {
-  "id": 1,
-  "text": "O Allah, increase me in Imaan...",
-  "sectionId": "imaan-worship",
-  "sectionTitle": "Imaan & Worship"
+    "id": 1,
+    "text": "O Allah, increase me in Imaan...",
+    "sectionId": "imaan-worship",
+    "sectionTitle": "Imaan & Worship"
 }
 ```
 
@@ -106,9 +106,9 @@ git push -u origin main
 ```
 
 3. Enable GitHub Pages:
-   - Go to Settings → Pages
-   - Source: Deploy from branch `main` / root
-   - Save
+    - Go to Settings → Pages
+    - Source: Deploy from branch `main` / root
+    - Save
 
 4. Visit: `https://USERNAME.github.io/duas-arafah/`
 
@@ -120,8 +120,8 @@ Edit CSS custom properties in `assets/css/styles.css`:
 
 ```css
 :root {
-  --accent: #2f5d4f; /* Change accent color */
-  --bg: #fbf9f4; /* Change background */
+    --accent: #2f5d4f; /* Change accent color */
+    --bg: #fbf9f4; /* Change background */
 }
 ```
 

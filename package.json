@@ -1,17 +1,18 @@
 {
-  "name": "duas-arafah",
-  "version": "1.0.0",
-  "description": "1000 supplications for the Day of Arafah",
-  "scripts": {
-    "build:data": "node scripts/build-data.js",
-    "serve": "python3 -m http.server 8000"
-  },
-  "keywords": [
-    "dua",
-    "arafah",
-    "islam",
-    "supplications"
-  ],
-  "author": "",
-  "license": "MIT"
+    "name": "duas-arafah",
+    "version": "1.0.0",
+    "description": "1000 supplications for the Day of Arafah",
+    "scripts": {
+        "build:data": "node scripts/build-data.js",
+        "serve": "python3 -m http.server 8000",
+        "format": "npx prettier --write ."
+    },
+    "keywords": [
+        "dua",
+        "arafah",
+        "islam",
+        "supplications"
+    ],
+    "author": "",
+    "license": "MIT"
 }
