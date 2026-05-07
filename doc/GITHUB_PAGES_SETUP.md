@@ -68,6 +68,7 @@ https://YOUR_USERNAME.github.io/YOUR_REPO/
 ```
 
 For example, if your username is `john` and repo is `Dua`:
+
 ```
 https://john.github.io/Dua/
 ```

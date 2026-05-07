@@ -1,8 +1,19 @@
-# 1000 Duas for Arafah
+<div align="center">
 
-A serene, reverent web application presenting 1000 supplications for the Day of Arafah and beyond.
+# 🤲 1000 Duas for Arafah
 
-Built with vanilla HTML, CSS, and JavaScript. No frameworks, no tracking, no distractions. Works offline after first load.
+### _A serene collection of supplications for the Day of Arafah and beyond_
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-gold?style=for-the-badge)](https://faisaltheparttimecoder.github.io/1000-duas-for-arafah/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)](https://github.com/faisaltheparttimecoder)
+
+---
+
+**Built with vanilla HTML, CSS, and JavaScript**  
+_No frameworks • No tracking • No distractions • Works offline_
+
+</div>
 
 ## Features
 
