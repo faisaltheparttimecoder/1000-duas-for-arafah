@@ -17,13 +17,13 @@ _No frameworks • No tracking • No distractions • Works offline_
 
 ## Features
 
-- **📥 PDF Download** - Export all 1000 duas as a beautifully formatted PDF, organized by sections
-- **🎨 Three view modes** - Cards, list, and table layouts
-- **🔍 Live search** - Instantly find duas across all content
-- **🌓 Dark & light themes** - Automatic system preference support
-- **⌨️ Keyboard navigation** - Fully accessible with keyboard shortcuts
-- **📴 Offline-capable** - Works without internet after first load
-- **♿ Accessible** - WCAG 2.1 AA compliant
+- **PDF Download** - Export all 1000 duas as a beautifully formatted PDF, organized by sections
+- **Three view modes** - Cards, list, and table layouts
+- **Live search** - Instantly find duas across all content
+- **Dark & light themes** - Automatic system preference support
+- **Keyboard navigation** - Fully accessible with keyboard shortcuts
+- **Offline-capable** - Works without internet after first load
+- **Accessible** - WCAG 2.1 AA compliant
 
 ## Deploy
 
@@ -33,7 +33,7 @@ This site is designed for GitHub Pages:
 2. Enable GitHub Pages in **Settings** → **Pages** → Set source to **GitHub Actions**
 3. Your site will be live at `https://<username>.github.io/<repo-name>/`
 
-📖 **For detailed setup instructions, see [GITHUB_PAGES_SETUP.md](doc/GITHUB_PAGES_SETUP.md)**
+**For detailed setup instructions, see [GITHUB_PAGES_SETUP.md](doc/GITHUB_PAGES_SETUP.md)**
 
 ## Local Development
 
@@ -43,12 +43,12 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`
 
-## 📄 License
+## License
 
 - **Code**: [MIT License](LICENSE) - Free to use, modify, and distribute
 - **Content**: Public devotional material - Share freely for the sake of Allah
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Whether it's fixing bugs, improving UI, or adding features - feel free to open an issue or submit a pull request.
 
