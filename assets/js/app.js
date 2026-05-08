@@ -508,13 +508,13 @@ class DuaApp {
         }
     }
 
-    showToast(message) {
+    showToast(message, timer=2000) {
         this.elements.toast.textContent = message;
         this.elements.toast.removeAttribute('hidden');
 
         setTimeout(() => {
             this.elements.toast.setAttribute('hidden', '');
-        }, 2000);
+        }, timer);
     }
 
     handleDeepLink() {
@@ -544,7 +544,7 @@ class DuaApp {
 
     async downloadPDF() {
         try {
-            this.showToast(this.t.ui.generatingPdf);
+            this.showToast(this.t.ui.generatingPdf, 10000);
 
             const generator = new PDFGenerator(this.duas, this.sections);
             await generator.generate();
