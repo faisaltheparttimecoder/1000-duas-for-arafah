@@ -1,42 +1,258 @@
 [
-    { "id": "imaan-worship", "title": "الإيمان والعبادة", "range": [1, 50], "count": 50, "order": 1 },
-    { "id": "forgiveness-mercy", "title": "المغفرة والرحمة", "range": [51, 100], "count": 50, "order": 2 },
-    { "id": "health-strength", "title": "الصحة والعافية", "range": [101, 150], "count": 50, "order": 3 },
+    {
+        "id": "imaan-worship",
+        "title": "الإيمان والعبادة",
+        "range": [1, 50],
+        "count": 50,
+        "order": 1
+    },
+    {
+        "id": "forgiveness-mercy",
+        "title": "المغفرة والرحمة",
+        "range": [51, 100],
+        "count": 50,
+        "order": 2
+    },
+    {
+        "id": "health-strength",
+        "title": "الصحة والعافية",
+        "range": [101, 150],
+        "count": 50,
+        "order": 3
+    },
     { "id": "wealth-rizq", "title": "الرزق والبركة", "range": [151, 200], "count": 50, "order": 4 },
-    { "id": "family-children", "title": "الأسرة والأبناء", "range": [201, 250], "count": 50, "order": 5 },
-    { "id": "marriage-relationships", "title": "الزواج والعلاقات", "range": [251, 275], "count": 25, "order": 6 },
-    { "id": "work-career-success", "title": "العمل والنجاح", "range": [276, 300], "count": 25, "order": 7 },
-    { "id": "akhirah-death-hereafter", "title": "الآخرة والموت", "range": [301, 350], "count": 50, "order": 8 },
-    { "id": "protection-evil", "title": "الوقاية من الشر", "range": [351, 400], "count": 50, "order": 9 },
-    { "id": "emotional-wellbeing", "title": "السكينة والطمأنينة", "range": [401, 450], "count": 50, "order": 10 },
-    { "id": "knowledge-hifdh", "title": "العلم والفقه", "range": [451, 500], "count": 50, "order": 11 },
-    { "id": "righteousness-piety", "title": "الاستقامة والتقوى", "range": [501, 550], "count": 50, "order": 12 },
+    {
+        "id": "family-children",
+        "title": "الأسرة والأبناء",
+        "range": [201, 250],
+        "count": 50,
+        "order": 5
+    },
+    {
+        "id": "marriage-relationships",
+        "title": "الزواج والعلاقات",
+        "range": [251, 275],
+        "count": 25,
+        "order": 6
+    },
+    {
+        "id": "work-career-success",
+        "title": "العمل والنجاح",
+        "range": [276, 300],
+        "count": 25,
+        "order": 7
+    },
+    {
+        "id": "akhirah-death-hereafter",
+        "title": "الآخرة والموت",
+        "range": [301, 350],
+        "count": 50,
+        "order": 8
+    },
+    {
+        "id": "protection-evil",
+        "title": "الوقاية من الشر",
+        "range": [351, 400],
+        "count": 50,
+        "order": 9
+    },
+    {
+        "id": "emotional-wellbeing",
+        "title": "السكينة والطمأنينة",
+        "range": [401, 450],
+        "count": 50,
+        "order": 10
+    },
+    {
+        "id": "knowledge-hifdh",
+        "title": "العلم والفقه",
+        "range": [451, 500],
+        "count": 50,
+        "order": 11
+    },
+    {
+        "id": "righteousness-piety",
+        "title": "الاستقامة والتقوى",
+        "range": [501, 550],
+        "count": 50,
+        "order": 12
+    },
     { "id": "hajj-umrah", "title": "الحج والعمرة", "range": [551, 600], "count": 50, "order": 13 },
-    { "id": "parents-family-ties", "title": "الوالدان وصلة الرحم", "range": [601, 610], "count": 10, "order": 14 },
-    { "id": "protection-grave", "title": "القبر ويوم القيامة", "range": [611, 620], "count": 10, "order": 15 },
-    { "id": "jannah-hereafter", "title": "الجنة والآخرة", "range": [621, 630], "count": 10, "order": 16 },
+    {
+        "id": "parents-family-ties",
+        "title": "الوالدان وصلة الرحم",
+        "range": [601, 610],
+        "count": 10,
+        "order": 14
+    },
+    {
+        "id": "protection-grave",
+        "title": "القبر ويوم القيامة",
+        "range": [611, 620],
+        "count": 10,
+        "order": 15
+    },
+    {
+        "id": "jannah-hereafter",
+        "title": "الجنة والآخرة",
+        "range": [621, 630],
+        "count": 10,
+        "order": 16
+    },
     { "id": "miscellaneous", "title": "أدعية عامة", "range": [631, 640], "count": 10, "order": 17 },
-    { "id": "protection-evil-eye", "title": "الوقاية من الأذى", "range": [641, 650], "count": 10, "order": 18 },
-    { "id": "steadfastness-imaan", "title": "الثبات على الإيمان", "range": [651, 660], "count": 10, "order": 19 },
-    { "id": "quran-knowledge", "title": "القرآن وطلب العلم", "range": [661, 670], "count": 10, "order": 20 },
-    { "id": "scholar-spreader", "title": "الدعوة والقيادة", "range": [671, 680], "count": 10, "order": 21 },
-    { "id": "righteous-offspring", "title": "الذرية الصالحة", "range": [681, 690], "count": 10, "order": 22 },
-    { "id": "trials-hardship", "title": "الصبر في الابتلاء", "range": [691, 700], "count": 10, "order": 23 },
-    { "id": "guidance-barakah", "title": "الهداية والبركة", "range": [701, 710], "count": 10, "order": 24 },
-    { "id": "spiritual-growth", "title": "النمو الروحي", "range": [711, 720], "count": 10, "order": 25 },
-    { "id": "service-deen", "title": "خدمة الدين والأمة", "range": [721, 730], "count": 10, "order": 26 },
-    { "id": "acceptance-duas", "title": "إجابة الدعاء", "range": [731, 750], "count": 20, "order": 27 },
-    { "id": "career-exams-doctor", "title": "التفوّق المهني", "range": [751, 800], "count": 50, "order": 28 },
-    { "id": "righteous-death", "title": "حسن الخاتمة", "range": [801, 842], "count": 42, "order": 29 },
+    {
+        "id": "protection-evil-eye",
+        "title": "الوقاية من الأذى",
+        "range": [641, 650],
+        "count": 10,
+        "order": 18
+    },
+    {
+        "id": "steadfastness-imaan",
+        "title": "الثبات على الإيمان",
+        "range": [651, 660],
+        "count": 10,
+        "order": 19
+    },
+    {
+        "id": "quran-knowledge",
+        "title": "القرآن وطلب العلم",
+        "range": [661, 670],
+        "count": 10,
+        "order": 20
+    },
+    {
+        "id": "scholar-spreader",
+        "title": "الدعوة والقيادة",
+        "range": [671, 680],
+        "count": 10,
+        "order": 21
+    },
+    {
+        "id": "righteous-offspring",
+        "title": "الذرية الصالحة",
+        "range": [681, 690],
+        "count": 10,
+        "order": 22
+    },
+    {
+        "id": "trials-hardship",
+        "title": "الصبر في الابتلاء",
+        "range": [691, 700],
+        "count": 10,
+        "order": 23
+    },
+    {
+        "id": "guidance-barakah",
+        "title": "الهداية والبركة",
+        "range": [701, 710],
+        "count": 10,
+        "order": 24
+    },
+    {
+        "id": "spiritual-growth",
+        "title": "النمو الروحي",
+        "range": [711, 720],
+        "count": 10,
+        "order": 25
+    },
+    {
+        "id": "service-deen",
+        "title": "خدمة الدين والأمة",
+        "range": [721, 730],
+        "count": 10,
+        "order": 26
+    },
+    {
+        "id": "acceptance-duas",
+        "title": "إجابة الدعاء",
+        "range": [731, 750],
+        "count": 20,
+        "order": 27
+    },
+    {
+        "id": "career-exams-doctor",
+        "title": "التفوّق المهني",
+        "range": [751, 800],
+        "count": 50,
+        "order": 28
+    },
+    {
+        "id": "righteous-death",
+        "title": "حسن الخاتمة",
+        "range": [801, 842],
+        "count": 42,
+        "order": 29
+    },
     { "id": "good-character", "title": "حسن الخلق", "range": [843, 852], "count": 10, "order": 30 },
-    { "id": "love-compassion", "title": "المحبة والرحمة", "range": [853, 862], "count": 10, "order": 31 },
-    { "id": "excellence-worship", "title": "إتقان العبادة", "range": [863, 872], "count": 10, "order": 32 },
-    { "id": "barakah-time", "title": "بركة الوقت والعمل", "range": [873, 882], "count": 10, "order": 33 },
-    { "id": "righteous-death-hereafter", "title": "الاستعداد للآخرة", "range": [883, 892], "count": 10, "order": 34 },
-    { "id": "jannah-final-abode", "title": "الجنة دار القرار", "range": [893, 902], "count": 10, "order": 35 },
-    { "id": "acceptance-hajj-umrah", "title": "قبول الحج والعمرة", "range": [903, 912], "count": 10, "order": 36 },
-    { "id": "global-ummah", "title": "الأمة والعدل", "range": [913, 922], "count": 10, "order": 37 },
-    { "id": "entire-lives", "title": "دعوات للحياة كلها", "range": [923, 932], "count": 10, "order": 38 },
-    { "id": "lifetime-acceptance", "title": "قبول دائم وأثر طيب", "range": [933, 942], "count": 10, "order": 39 },
-    { "id": "final-comprehensive", "title": "أدعية جامعة", "range": [943, 1000], "count": 58, "order": 40 }
+    {
+        "id": "love-compassion",
+        "title": "المحبة والرحمة",
+        "range": [853, 862],
+        "count": 10,
+        "order": 31
+    },
+    {
+        "id": "excellence-worship",
+        "title": "إتقان العبادة",
+        "range": [863, 872],
+        "count": 10,
+        "order": 32
+    },
+    {
+        "id": "barakah-time",
+        "title": "بركة الوقت والعمل",
+        "range": [873, 882],
+        "count": 10,
+        "order": 33
+    },
+    {
+        "id": "righteous-death-hereafter",
+        "title": "الاستعداد للآخرة",
+        "range": [883, 892],
+        "count": 10,
+        "order": 34
+    },
+    {
+        "id": "jannah-final-abode",
+        "title": "الجنة دار القرار",
+        "range": [893, 902],
+        "count": 10,
+        "order": 35
+    },
+    {
+        "id": "acceptance-hajj-umrah",
+        "title": "قبول الحج والعمرة",
+        "range": [903, 912],
+        "count": 10,
+        "order": 36
+    },
+    {
+        "id": "global-ummah",
+        "title": "الأمة والعدل",
+        "range": [913, 922],
+        "count": 10,
+        "order": 37
+    },
+    {
+        "id": "entire-lives",
+        "title": "دعوات للحياة كلها",
+        "range": [923, 932],
+        "count": 10,
+        "order": 38
+    },
+    {
+        "id": "lifetime-acceptance",
+        "title": "قبول دائم وأثر طيب",
+        "range": [933, 942],
+        "count": 10,
+        "order": 39
+    },
+    {
+        "id": "final-comprehensive",
+        "title": "أدعية جامعة",
+        "range": [943, 1000],
+        "count": 58,
+        "order": 40
+    }
 ]
