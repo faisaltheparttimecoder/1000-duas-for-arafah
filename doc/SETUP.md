@@ -17,28 +17,9 @@ Your **1000 Duas for Arafah** site is now complete with:
 
 ## 📝 Final Step: Add Your Complete Duas
 
-The site currently has sample data. To add all 1000 Duas for Arafah:
+The site currently has sample data. To add all 1000 Duas for Arafah, edit `data/duas.json` directly.
 
-### Option 1: Use the Processing Script (Recommended)
-
-1. **Create the source file:**
-
-    ```bash
-    touch scripts/duas_raw.txt
-    ```
-
-2. **Copy all 1000 Duas for Arafah** (the complete list you provided) into `scripts/duas_raw.txt`
-    - Format: One dua per line
-    - Example: `1. O Allah, increase me in Imaan...`
-
-3. **Run the processor:**
-    ```bash
-    node scripts/process-duas.js
-    ```
-
-This will generate `data/duas.json` with all 1000 Duas for Arafah properly formatted.
-
-### Option 2: Manual JSON Editing
+### Manual JSON Editing
 
 Edit `data/duas.json` directly following this structure:
 
@@ -128,8 +109,6 @@ Dua/
 ├── data/
 │   ├── duas.json           # All 1000 Duas for Arafah
 │   └── sections.json       # 40 sections metadata
-├── scripts/
-│   └── process-duas.js     # Dua processor
 ├── README.md
 ├── LICENSE
 └── CLAUDE.md              # Full specification
@@ -161,6 +140,9 @@ Dua/
 - Works offline after first load
 - Progressive enhancement
 - Semantic HTML with proper ARIA labels
+- PDF export with Arabic/English support (auto font + RTL/LTR alignment)
+- Mobile search toggle icon opens full-width search below navbar
+- Compact print stylesheet (number + text on one line)
 
 ## 🧪 Testing
 

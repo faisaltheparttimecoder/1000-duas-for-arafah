@@ -17,8 +17,6 @@ Dua/
 ├── data/
 │   ├── duas.json           # All duas (sample data included)
 │   └── sections.json       # Section metadata
-├── scripts/
-│   └── build-data.js       # Parser for source text
 ├── README.md
 ├── LICENSE
 └── CLAUDE.md              # Full specification
@@ -61,15 +59,9 @@ Edit `data/duas.json` directly following this format:
 }
 ```
 
-### Method 2: Parse from Text File
+### Tip: Keep IDs sequential
 
-1. Create a text file with your duas (e.g., `source.txt`)
-2. Format: Each dua on a line starting with number: `1. O Allah...`
-3. Run the parser:
-
-```bash
-node scripts/build-data.js source.txt
-```
+Ensure `id` values increase from 1 to 1000 without gaps. Use the correct `sectionId` so sidebar grouping and ranges render accurately.
 
 ## Features Implemented
 
@@ -89,7 +81,9 @@ node scripts/build-data.js source.txt
   ✅ Offline capability (service worker)
   ✅ Fully responsive
   ✅ WCAG 2.1 AA accessible
-  ✅ Print stylesheet
+  ✅ Print stylesheet (compact, number + text on one line)
+  ✅ Mobile search toggle (icon opens search below navbar)
+  ✅ PDF export with Arabic/English support
 
 ## Deploying to GitHub Pages
 
