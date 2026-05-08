@@ -28,6 +28,28 @@
     --ease-out: cubic-bezier(0.4, 0, 1, 1);
 }
 
+/* Prevent alternating/hover stripes inside the sidebar on touch devices */
+@media (max-width: 1024px) {
+    .sidebar-content,
+    .sections-list {
+        background: var(--bg);
+    }
+
+    .sidebar .section-link {
+        background: transparent;
+    }
+
+    .sidebar .section-link:hover {
+        background: transparent;
+    }
+
+    .sidebar .section-link:active {
+        background: transparent;
+    }
+
+ 
+}
+
 [data-theme='dark'] {
     --bg: #1a1c24;
     --bg-elevated: #1e202a;
@@ -283,12 +305,12 @@ html[dir='rtl'] .section-link.active {
 
 /* RTL adjustments for icon and clear button */
 html[dir='rtl'] .search-icon {
-    right: 14px;
+    right: 25px;
     left: auto;
 }
 
 html[dir='rtl'] .search-clear {
-    left: 12px;
+    left: 25px;
     right: auto;
 }
 
@@ -1092,6 +1114,8 @@ html[dir='rtl'] .search-clear {
         height: 100vh;
         z-index: 60;
         transform: translateX(-100%);
+        /* Ensure a single, solid background for the entire drawer */
+        background: var(--bg);
     }
 
     .sidebar.open {
