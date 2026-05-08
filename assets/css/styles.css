@@ -262,6 +262,13 @@ html[dir='rtl'] .section-link.active {
     transition: border-color var(--transition-speed) var(--ease-in);
 }
 
+/* Hide the native WebKit clear (blue x) so we only show our custom .search-clear button */
+#search-input::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    appearance: none;
+    display: none;
+}
+
 #search-input:focus {
     outline: none;
     border-color: var(--accent);
