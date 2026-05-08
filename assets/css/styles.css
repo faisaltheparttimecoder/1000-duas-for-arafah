@@ -1212,14 +1212,62 @@ html[dir='rtl'] .search-clear {
         padding: 0;
     }
 
+    /* Compact, single-line start for each dua (number + text) */
+    .duas-container[data-view='cards'] {
+        display: block;
+        gap: 0;
+    }
+
     .dua-card {
         break-inside: avoid;
         border: none;
         box-shadow: none;
-        padding: var(--space-4) 0;
+        background: transparent;
+        padding: 0;
+        margin: 0 0 6px 0;
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+    }
+
+    .dua-number {
+        background: transparent;
+        color: #000 !important;
+        padding: 0;
+        margin: 0;
+        min-width: 24px;
+        font-size: 10pt;
+        font-weight: 700;
+        text-align: right;
+    }
+
+    html[dir='rtl'] .dua-number {
+        text-align: left;
+    }
+
+    .dua-text {
+        margin: 0;
+        font-size: 11pt;
+        line-height: 1.35;
+        color: #000 !important;
     }
 
     .section-header {
         break-after: avoid;
+        margin: 8px 0 6px 0;
+        padding: 0;
+        border: none;
+    }
+
+    .section-header h2 {
+        margin: 0;
+        font-size: 12pt;
+        line-height: 1.2;
+    }
+
+    .section-meta {
+        margin: 2px 0 0 0;
+        font-size: 9pt;
+        color: #444;
     }
 }
