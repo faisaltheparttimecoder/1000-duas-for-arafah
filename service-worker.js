@@ -1,4 +1,4 @@
-const CACHE_NAME = 'duas-arafah-v1';
+const CACHE_NAME = 'duas-arafah-v2';
 const ASSETS = [
     '/',
     '/index.html',
@@ -9,6 +9,8 @@ const ASSETS = [
     '/assets/js/views.js',
     '/data/duas.json',
     '/data/sections.json',
+    '/data/duas.ar.json',
+    '/data/sections.ar.json',
 ];
 
 self.addEventListener('install', (event) => {
