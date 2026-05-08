@@ -117,6 +117,27 @@ class DuaApp {
         this.setupEventListeners();
         this.handleDeepLink();
         this.registerServiceWorker();
+
+        // Mobile search toggle
+        const searchToggle = document.querySelector('.search-toggle');
+        const searchInput = document.getElementById('search-input');
+        if (searchToggle && searchInput) {
+            searchToggle.addEventListener('click', () => {
+                const open = document.body.classList.toggle('search-open');
+                searchToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+                if (open) {
+                    setTimeout(() => searchInput.focus(), 0);
+                }
+            });
+
+            // Close on Escape when focus is in input
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && document.body.classList.contains('search-open')) {
+                    document.body.classList.remove('search-open');
+                    searchToggle.setAttribute('aria-expanded', 'false');
+                }
+            });
+        }
     }
 
     resolveInitialLang() {
@@ -508,7 +529,7 @@ class DuaApp {
         }
     }
 
-    showToast(message, timer=2000) {
+    showToast(message, timer = 2000) {
         this.elements.toast.textContent = message;
         this.elements.toast.removeAttribute('hidden');
 

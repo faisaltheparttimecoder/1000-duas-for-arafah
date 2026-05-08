@@ -246,14 +246,17 @@ html[dir='rtl'] .section-link.active {
 
 .search-icon {
     position: absolute;
-    left: var(--space-3);
+    left: 25px; /* keep icon clearly inside the input */
+    top: 50%;
+    transform: translateY(-50%);
     color: var(--text-muted);
     pointer-events: none;
 }
 
 #search-input {
     width: 280px;
-    padding: var(--space-2) var(--space-8) var(--space-2) 40px;
+    /* extra horizontal padding so icons sit inside comfortably */
+    padding: var(--space-2) 44px var(--space-2) 44px;
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: var(--radius-sm);
@@ -278,9 +281,22 @@ html[dir='rtl'] .section-link.active {
     color: var(--text-muted);
 }
 
+/* RTL adjustments for icon and clear button */
+html[dir='rtl'] .search-icon {
+    right: 14px;
+    left: auto;
+}
+
+html[dir='rtl'] .search-clear {
+    left: 12px;
+    right: auto;
+}
+
 .search-clear {
     position: absolute;
-    right: var(--space-2);
+    right: 24px; /* keep clear button inside the input */
+    top: 50%;
+    transform: translateY(-50%);
     background: none;
     border: none;
     color: var(--text-muted);
@@ -290,6 +306,8 @@ html[dir='rtl'] .section-link.active {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 24px;
+    height: 24px;
 }
 
 .search-clear:hover {
@@ -387,6 +405,63 @@ html[dir='rtl'] .section-link.active {
 .theme-toggle:focus-visible {
     outline: 2px solid var(--accent);
     outline-offset: 2px;
+}
+
+/* Search toggle button (hidden on desktop by default) */
+.search-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--text);
+    cursor: pointer;
+    padding: var(--space-2);
+    border-radius: var(--radius-sm);
+}
+
+.search-toggle:hover {
+    background: var(--surface);
+}
+
+@media (max-width: 768px) {
+    /* Hide header title to declutter on small screens */
+    .site-title {
+        display: none;
+    }
+
+    /* Show search icon, hide inline search in navbar by default */
+    .search-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .top-bar-right .search-container {
+        display: none;
+    }
+
+    .view-switcher {
+        display: none;
+    }
+
+    /* When open, present the search as a full-width bar below the sticky top bar */
+    body.search-open .top-bar-right .search-container {
+        display: flex;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 61px; /* matches top bar height */
+        padding: var(--space-3) var(--space-4);
+        background: var(--bg);
+        border-bottom: 1px solid var(--border);
+        z-index: 1000;
+        justify-content: center;
+    }
+
+    /* Make the input expand on mobile */
+    body.search-open #search-input {
+        width: 100%;
+        max-width: 520px;
+    }
 }
 
 .layout {
