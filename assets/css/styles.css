@@ -46,8 +46,6 @@
     .sidebar .section-link:active {
         background: transparent;
     }
-
- 
 }
 
 [data-theme='dark'] {
@@ -305,12 +303,12 @@ html[dir='rtl'] .section-link.active {
 
 /* RTL adjustments for icon and clear button */
 html[dir='rtl'] .search-icon {
-    right: 25px;
+    right: 20px;
     left: auto;
 }
 
 html[dir='rtl'] .search-clear {
-    left: 25px;
+    left: 20px;
     right: auto;
 }
 
@@ -667,6 +665,10 @@ html[dir='rtl'] .search-clear {
     color: var(--text);
 }
 
+html[lang='ar'] .dua-text {
+    font-size: 1.4rem;
+}
+
 .dua-list-item {
     display: flex;
     align-items: flex-start;
@@ -922,7 +924,11 @@ html[dir='rtl'] .search-clear {
     line-height: 1.8;
     color: rgba(255, 255, 255, 0.95);
     margin: 0 0 32px 0;
-    font-weight: 400;
+    font-weight: 400;   
+}
+
+html[lang='ar'] .modal-text {
+    font-size: 1.6rem;
 }
 
 [data-theme='light'] .modal-text {
