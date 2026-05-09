@@ -105,8 +105,6 @@ duas-arafah/
 ├── data/
 │   ├── duas.json                # all 1000 Duas for Arafah, structured
 │   └── sections.json            # section metadata
-├── scripts/
-│   └── build-data.js            # node script that parses the raw text into JSON
 └── service-worker.js            # offline caching
 ```
 
@@ -141,7 +139,7 @@ duas-arafah/
 ]
 ```
 
-The build script (`scripts/build-data.js`) must parse the raw `.txt` source and produce both files. Section detection: a line that matches `/^Section:/i` OR a header followed by `(\d+–\d+)` defines a section. Each numbered line `^\d+\.\s` is a dua.
+Section detection guidance (if you pre-process data externally): a header followed by a range `(\d+–\d+)` defines a section. Each numbered line `^\d+\.\s` is a dua.
 
 ---
 
@@ -172,7 +170,9 @@ The build script (`scripts/build-data.js`) must parse the raw `.txt` source and 
 ### 6.2 Layout (mobile)
 
 - Top bar collapses; sidebar becomes a drawer triggered by a hamburger icon.
-- View switcher and theme toggle remain visible in the top bar.
+- Language switcher, PDF button, and theme toggle remain visible in the top bar.
+- A search icon toggles a full-width search bar directly below the top bar.
+- View switcher is hidden on small screens.
 - Cards stack to a single column.
 
 ### 6.3 The Three Views
@@ -208,7 +208,8 @@ The active view persists in `localStorage` under `duas:view`.
 
 ### 6.5 Search
 
-- A search input in the top bar with a subtle leading icon.
+- Desktop: a search input in the top bar with a subtle leading icon.
+- Mobile: the search icon toggles the search bar below the top bar.
 - Searches `text` only (not section titles, to keep results focused).
 - Live filter — debounced 150 ms.
 - When active, the main view shows a "Results (N)" header and hides section dividers.
@@ -319,7 +320,7 @@ Define as CSS custom properties under `:root` and override under `[data-theme="d
     - `?dua=<n>` opens that dua's modal on load
 10. **Offline:** service worker caches `index.html`, CSS, JS, JSON, fonts on first visit.
 11. **404-safe:** if `?dua=9999` is passed, fall through silently and show the home view.
-12. **Print stylesheet:** `@media print` strips chrome, shows duas as numbered paragraphs grouped by section.
+12. **Print stylesheet:** `@media print` strips chrome; compact layout starts each dua with number + text on the same line, grouped by section.
 
 ---
 

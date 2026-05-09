@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "text": "اللهم زدني إيمانًا وثبّته في قلبي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 2,
+        "text": "اللهم اجعلني أحب ما تحب وأبغض ما تبغض.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 3,
+        "text": "اللهم أذقني حلاوة الإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 4,
+        "text": "اللهم اجعل قلبي متعلقًا بك دائمًا.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 5,
+        "text": "اللهم ارزقني الإخلاص في جميع عباداتي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 6,
+        "text": "اللهم اهدني لإتقان صلاتي وخشوعي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 7,
+        "text": "اللهم اجعلني من القائمين بالتهجد.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 8,
+        "text": "اللهم اجعلني مواظبًا على قراءة القرآن والعمل به.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 9,
+        "text": "اللهم طهّر قلبي من النفاق والكبر.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 10,
+        "text": "اللهم اجعل ذكرك دائمًا على لساني.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 11,
+        "text": "اللهم افتح قلبي لفهم دينك فهمًا عميقًا.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 12,
+        "text": "اللهم اجعل أعمالي خالصة ترضيك وحدك.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 13,
+        "text": "اللهم تقبّل كل عمل صالح عملته.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 14,
+        "text": "اللهم احفظني من الكبر في عبادتي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 15,
+        "text": "اللهم اجعلني من المتقنين لوضوئهم.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 16,
+        "text": "اللهم أعنّي أن أكون من العابدين الشاكرين الصابرين.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 17,
+        "text": "اللهم أبعدني عن الكسل في العبادة.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 18,
+        "text": "اللهم اجعلني من محيي السنّة.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 19,
+        "text": "اللهم لا تجعلني من الغافلين عنك.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 20,
+        "text": "اللهم أحيِ قلبي بمحبتك.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 21,
+        "text": "اللهم ارزقني إيمانًا لا يتزعزع.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 22,
+        "text": "اللهم طهّر قلبي لوجهك.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 23,
+        "text": "اللهم أعنّي على مراقبتك في كل حين.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 24,
+        "text": "اللهم زيّني بنور الإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 25,
+        "text": "اللهم أحيني مؤمنًا وتوفّني مؤمنًا.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 26,
+        "text": "اللهم ارزقني قلبًا مملوءًا بالتقوى.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 27,
+        "text": "اللهم لا تشغلني الدنيا عنك.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 28,
+        "text": "اللهم اجعل محبتك فوق كل محبة في قلبي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 29,
+        "text": "اللهم ارزقني علمًا يزيد الإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 30,
+        "text": "اللهم اهدني لإتقان خلُقي بالإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 31,
+        "text": "اللهم اجعل آخر كلامي من الدنيا لا إله إلا الله.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 32,
+        "text": "اللهم جدّد الإيمان في قلبي كل يوم.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 33,
+        "text": "اللهم لا تقبضني إلا على الإسلام.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 34,
+        "text": "اللهم زدني حبًا لنبينا محمد ﷺ.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 35,
+        "text": "اللهم ارزقني القرب منك في الدنيا والآخرة.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 36,
+        "text": "اللهم ارزقني صحبة المؤمنين الصالحين.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 37,
+        "text": "اللهم أزل الشكوك من قلبي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 38,
+        "text": "اللهم وفقني لاتباع هداك بثقة تامة.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 39,
+        "text": "اللهم ارزقني حياة عبادة وموتًا بعزة.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 40,
+        "text": "اللهم اجعل أفعالي شاهدة على إيماني.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 41,
+        "text": "اللهم زدني إخلاصًا وحسن نية.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 42,
+        "text": "اللهم اجعل إيماني نورًا يهدي غيري.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 43,
+        "text": "اللهم اصرفني عن كل طريق يؤدي إلى الضلال.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 44,
+        "text": "اللهم ثبّت أولادي على الإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 45,
+        "text": "اللهم احفظ إيماني إلى آخر نفس.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 46,
+        "text": "اللهم بدّل سيئاتي حسنات.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 47,
+        "text": "اللهم طهّر قلبي من الشك والالتباس.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 48,
+        "text": "اللهم قرّبني إليك بعبادتي يومًا بعد يوم.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 49,
+        "text": "اللهم اجعل الإيمان أحب نعمة في حياتي.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 50,
+        "text": "اللهم اختم روحي على كمال الإيمان.",
+        "sectionId": "imaan-worship",
+        "sectionTitle": "الإيمان والعبادة"
+    },
+    {
+        "id": 51,
+        "text": "اللهم اغفر لي جميع ذنوبي، صغيرها وكبيرها.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 52,
+        "text": "اللهم إن رحمتك وسعت كل شيء فاشملني بها.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 53,
+        "text": "اللهم اغفر لي ما علمتُ وما لم أعلم.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 54,
+        "text": "اللهم استر عيوبي في الدنيا والآخرة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 55,
+        "text": "اللهم اجعلني من التوّابين كثيري الرجوع إليك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 56,
+        "text": "اللهم امحُ ذنوبي كما تمحو الليل بالنهار.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 57,
+        "text": "اللهم لا تفضحني بعيوبي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 58,
+        "text": "اللهم اغفر لي وارفع درجتي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 59,
+        "text": "اللهم اكتبني في هذا اليوم من عرفة من المغفور لهم.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 60,
+        "text": "اللهم طهّرني كما يُطهَّر الثوب الأبيض من الدنس.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 61,
+        "text": "اللهم بدّل أخطائي حسنات.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 62,
+        "text": "اللهم اجعلني ممن تتقبّل توبتهم.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 63,
+        "text": "اللهم اغفر لوالدَيَّ وارزقهما الجنة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 64,
+        "text": "اللهم اجعل توبتي نصوحًا دائمة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 65,
+        "text": "اللهم اغفر لي كل ذنب باعدني عنك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 66,
+        "text": "اللهم لا تجعلني أقنط من رحمتك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 67,
+        "text": "اللهم اغفر لي تقصيري في صلاتي وما ضيّعتُ منها.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 68,
+        "text": "اللهم اغفر لي ما تسببتُ به من أذى للناس.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 69,
+        "text": "اللهم اجعلني ممّن يعفو عن الناس بسهولة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 70,
+        "text": "اللهم اجعل رحمتك تحيط بروحي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 71,
+        "text": "اللهم اجعل هذا اليوم من عرفة يومًا تمحو فيه كل ذنوبي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 72,
+        "text": "اللهم أفضِل برحمتك على أمةِ محمدٍ ﷺ.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 73,
+        "text": "اللهم أزل ثِقَل الذنب من قلبي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 74,
+        "text": "اللهم اغفر لي كل فعل كِبرٍ واستعلاء.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 75,
+        "text": "اللهم تقبّل دموع توبتي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 76,
+        "text": "اللهم لا تكلني إلى نفسي طرفة عين.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 77,
+        "text": "اللهم اغفر زلّات شبابي وشيخوختي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 78,
+        "text": "اللهم طهّر قلبي من الذنوب والندم.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 79,
+        "text": "اللهم ارحمني إذا وُضِعتُ في قبري.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 80,
+        "text": "اللهم اغفر لي واجعلني منارةً للخير.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 81,
+        "text": "اللهم اغفر للأحياء والأموات من المسلمين.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 82,
+        "text": "اللهم اغسل ذنوبي بماءِ رحمتك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 83,
+        "text": "اللهم لا تجعل ذنوبي حائلًا دون دعائي.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 84,
+        "text": "اللهم ألطِف بي في حكمك وحسابك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 85,
+        "text": "اللهم اغفر لي ولإخوتي ولذريّتنا أجمعين.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 86,
+        "text": "اللهم ارزقني رحمةً تُسكِن قلبي بالطمأنينة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 87,
+        "text": "اللهم جنّبني الكِبر عند الاستغفار.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 88,
+        "text": "اللهم اغفر لي ذنوبي سرَّها وعلانيتها.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 89,
+        "text": "اللهم اجعلني من السبعين ألفًا الذين يدخلون الجنة بلا حساب.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 90,
+        "text": "اللهم تقبّل دعائي رغم تقصيري.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 91,
+        "text": "اللهم ارحمني إذا نسيتك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 92,
+        "text": "اللهم اجعل آخر أنفاسي على رحمتك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 93,
+        "text": "اللهم لا تردّني إلى الذنوب التي تركتُها.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 94,
+        "text": "اللهم توفَّني على مغفرةٍ منك.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 95,
+        "text": "اللهم اغفر لي كل كذبٍ وغضبٍ وظلم.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 96,
+        "text": "اللهم اكتبني من المغفور لهم في هذا الحج.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 97,
+        "text": "اللهم لا تجعلني أغادر عرفة إلا وقد غُفر لي مغفرةً تامة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 98,
+        "text": "اللهم أحِطني بملائكة الرحمة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 99,
+        "text": "اللهم اغفر لي مغفرةً تُبلغني الجنة.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 100,
+        "text": "اللهم إنّي أسألك رحمتك التي تُنجّي من النار.",
+        "sectionId": "forgiveness-mercy",
+        "sectionTitle": "المغفرة والرحمة"
+    },
+    {
+        "id": 101,
+        "text": "اللهم ارزقني صحةً كاملةً جسديةً وعقليةً ونفسيةً.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 102,
+        "text": "اللهم أعطني القوّة للاستيقاظ لصلاة الفجر يوميًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 103,
+        "text": "اللهم بارك في جسدي واحفظه من المرض والضعف.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 104,
+        "text": "اللهم ارزقني قوّةً لتحمّل ابتلاءات الحياة بصبرٍ وثبات.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 105,
+        "text": "اللهم اشفِ كلَّ جرحٍ في جسدي وقلبي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 106,
+        "text": "اللهم ارزقني صحةً طيبةً حتى آخر نفسٍ في حياتي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 107,
+        "text": "اللهم اجعلني من الأقوياء إيمانًا وبدنًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 108,
+        "text": "اللهم احفظني من كل داءٍ ظاهرٍ وباطنٍ.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 109,
+        "text": "اللهم اشفِ كلَّ من يتألّم في أسرتي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 110,
+        "text": "اللهم اجعل قوّتي في سبيلك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 111,
+        "text": "اللهم احفظني من الأمراض التي تُعسِّر العبادة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 112,
+        "text": "اللهم قوِّ قلبي على مواجهة الحياة بالصبر.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 113,
+        "text": "اللهم بدّل تعبي طاقةً وهدفًا وهمةً.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 114,
+        "text": "اللهم لا تجعل صحتي تُشغلني عنك أبدًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 115,
+        "text": "اللهم ارزقني القدرة على خدمتك بجوارحي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 116,
+        "text": "اللهم بارك لي في عمرٍ طويلٍ على الطاعة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 117,
+        "text": "اللهم اشفِني من كلِّ ألمٍ لا أستطيع التعبير عنه.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 118,
+        "text": "اللهم قوِّني لأحميَ من أحب.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 119,
+        "text": "اللهم احفظني من الإنهاك الروحي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 120,
+        "text": "اللهم اجعل جسدي وسيلةً للعبادة لا للانشغال.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 121,
+        "text": "اللهم احفظ بصري وسمعي وسائر قُوايَ وقدراتي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 122,
+        "text": "اللهم ارزقني بركةً في قوّتي البدنية.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 123,
+        "text": "اللهم اجعل كلَّ نفسٍ منّي تسبيحًا لك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 124,
+        "text": "اللهم اجعل صحتي في خدمة دينك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 125,
+        "text": "اللهم لا تجعل المرض يمنعني من ذكرك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 126,
+        "text": "اللهم اشفِني من كلِّ مرضٍ أعلمه وما لا أعلمه.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 127,
+        "text": "اللهم احفظني من أمراض القلوب.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 128,
+        "text": "اللهم ارزق والديَّ صحةً وعافيةً في كِبَرهما.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 129,
+        "text": "اللهم اشفِ الأمةَ بدنًا وروحًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 130,
+        "text": "اللهم احفظني من الحسد الذي يفسد الصحة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 131,
+        "text": "اللهم ارزقني راحةً في نومي وقوّةً في نهاري.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 132,
+        "text": "اللهم احفظني من كلِّ مؤذٍ أستهلكه.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 133,
+        "text": "اللهم ارزقني قوّةً على الصيام وحسنَ العبادة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 134,
+        "text": "اللهم ارزقني لياقةً وانضباطًا لوجهك الكريم.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 135,
+        "text": "اللهم اجعل صحتي أداةً للأعمال الصالحة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 136,
+        "text": "اللهم اشفِ كلَّ طفلٍ متألّمٍ في العالم.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 137,
+        "text": "اللهم ارزق المرضى صبرًا وأجرًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 138,
+        "text": "اللهم احفظني من الإدمان والعادات الضارّة واليأس.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 139,
+        "text": "اللهم ارزقني توازنًا عاطفيًا في كلِّ حال.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 140,
+        "text": "اللهم اجعل جسدي قانعًا بالقليل قويًا عند الشدائد.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 141,
+        "text": "اللهم هوِّن ألمَ ذوي الأمراض المزمنة.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 142,
+        "text": "اللهم وفّقني لخدمة المرضى والمحتاجين.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 143,
+        "text": "اللهم أعطني قوّةً للصلاة ولو كنتُ ضعيفًا.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 144,
+        "text": "اللهم اشفِ جسدي وعقلي وقلبي وروحي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 145,
+        "text": "اللهم ارزقني قوّةَ الابتسام في الشدائد.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 146,
+        "text": "اللهم قوِّ إرادتي وانضباطي.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 147,
+        "text": "اللهم ارزقني شيخوخةً بوقارٍ وإيمانٍ.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 148,
+        "text": "اللهم اجعل قوّتي في الخضوع لك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 149,
+        "text": "اللهم احفظني من صحةٍ تُبعِدني عن التواضع.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 150,
+        "text": "اللهم لا تجعل الألم يباعدني عن رحمتك.",
+        "sectionId": "health-strength",
+        "sectionTitle": "الصحة والعافية"
+    },
+    {
+        "id": 151,
+        "text": "اللهم ارزقني رزقًا حلالًا مباركًا.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 152,
+        "text": "اللهم أغنِ قلبي بالقناعة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 153,
+        "text": "اللهم اجعلني من الشاكرين على كل حال، قلَّ مالي أو كثر.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 154,
+        "text": "اللهم بارك لي في دخلي واحفظه من الضياع.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 155,
+        "text": "اللهم ارزقني مالًا يقربني إليك.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 156,
+        "text": "اللهم احفظ مالي من الضرر والحسد.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 157,
+        "text": "اللهم افتح لي أبواب الرزق من حيث لا أحتسب.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 158,
+        "text": "اللهم احفظني من حب المال الذي يفسد القلوب.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 159,
+        "text": "اللهم اجعلني سخيًّا في الصدقة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 160,
+        "text": "اللهم اجعل يدي عليا معطيةً لا سفلى سائلة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 161,
+        "text": "اللهم لا تجعلني أعتمد على أحدٍ سواك.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 162,
+        "text": "اللهم ارزقني سعةً في الرزق بلا كِبرٍ ولا بطر.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 163,
+        "text": "اللهم بارك في عملي وتجَارتي بالنجاح.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 164,
+        "text": "اللهم قِني الدين والذل.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 165,
+        "text": "اللهم اجعل مكاسبي عونًا لأهلي بأحسن وجه.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 166,
+        "text": "اللهم بارك في مالي ليخدم أمة الإسلام.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 167,
+        "text": "اللهم ارزقني بركةً تجعل القليل كثيرًا.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 168,
+        "text": "اللهم اعصمني من فتن المال.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 169,
+        "text": "اللهم ارزقني من غير مَذلّة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 170,
+        "text": "اللهم اجعل مالي سببًا لصدقةٍ جارية.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 171,
+        "text": "اللهم لا تجعل حبي للمال يفوق حبي لك.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 172,
+        "text": "اللهم زد رزقي وطيّبه.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 173,
+        "text": "اللهم اجعل مالي سببًا لنيل رضاك.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 174,
+        "text": "اللهم ارزقني ما يكفيني لأعين الفقراء.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 175,
+        "text": "اللهم ارزقني رزقًا يقوّي إيماني.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 176,
+        "text": "اللهم ارزق أبنائي مالًا ووظائفَ حلالًا مباركة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 177,
+        "text": "اللهم ارفع الفقر والمشقة عن أمتنا.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 178,
+        "text": "اللهم افتح أبواب الرزق لكل مؤمنٍ مكافح.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 179,
+        "text": "اللهم احفظ مالي من الآفات والكوارث.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 180,
+        "text": "اللهم بارك في مدّخراتي نماءً وبركة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 181,
+        "text": "اللهم ارزقني توازنًا بين الدنيا والدين.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 182,
+        "text": "اللهم اجعلني سببًا لفرجٍ ماليٍّ للناس.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 183,
+        "text": "اللهم بارك في جهدي وضاعف أجري.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 184,
+        "text": "اللهم ارزقني حُسن التدبير في الإنفاق.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 185,
+        "text": "اللهم جنّبني الإسراف والتبذير.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 186,
+        "text": "اللهم احفظني من عسرٍ ماليٍّ يضرّ ديني.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 187,
+        "text": "اللهم لا تجعل المال يفسد نفسي.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 188,
+        "text": "اللهم أغنِني باستثماراتٍ حلال.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 189,
+        "text": "اللهم أغنِني بفضلك عمّن سواك.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 190,
+        "text": "اللهم أخلف عليَّ بكل خسارةٍ خيرًا.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 191,
+        "text": "اللهم زدني شكرًا على كل رزق.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 192,
+        "text": "اللهم ارزقني مالًا وحكمةً في إدارته.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 193,
+        "text": "اللهم ارزقني مالًا يزكو بالصدقة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 194,
+        "text": "اللهم أعنّي على قضاء دُيوني بسرعةٍ وسلام.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 195,
+        "text": "اللهم اجعل مالي وقايةً من الشدائد لا فتنة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 196,
+        "text": "اللهم احفظني من الحسد والطمع والخيانة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 197,
+        "text": "اللهم ارزقني كسبًا من الحلال فقط.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 198,
+        "text": "اللهم ارزقني من غير كدٍّ ولا مَهانة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 199,
+        "text": "اللهم بارك في رزقي لينفع الأجيال.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 200,
+        "text": "اللهم ارزقني رزقًا يبلّغني الجنة.",
+        "sectionId": "wealth-rizq",
+        "sectionTitle": "الرزق والبركة"
+    },
+    {
+        "id": 201,
+        "text": "اللهم بارك لوالديَّ بالصحة والمغفرة والجنة.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 202,
+        "text": "اللهم ارحم والديَّ كما ربياني صغيرًا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 203,
+        "text": "اللهم احفظ وقوِّ الرابط بيني وبين زوجي/زوجتي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 204,
+        "text": "اللهم بارك لزوجي/زوجتي بالتقوى والصحة ومحبتك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 205,
+        "text": "اللهم اجعل بيتنا دارَ سكينةٍ ورحمة.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 206,
+        "text": "اللهم ألِّف بين قلوبنا على طاعتك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 207,
+        "text": "اللهم ارزقنا ذريةً صالحةً تقية.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 208,
+        "text": "اللهم اجعل أولادي من حَفَظةِ القرآن.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 209,
+        "text": "اللهم بارك لأبنائي في العلم وحسن الخلق والهداية.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 210,
+        "text": "اللهم احفظ أبنائي من الأذى والشر ورفقاء السوء.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 211,
+        "text": "اللهم ارزق أسرتي المحبة والوحدة والإيمان.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 212,
+        "text": "اللهم اغفر لأحيائنا وأمواتنا من أهلنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 213,
+        "text": "اللهم اهدِ إخوتي وثبّتهم على سبيلك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 214,
+        "text": "اللهم ارزقني برَّ والديَّ وخدمتهما.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 215,
+        "text": "اللهم أنزل السكينة والفهم في أسرتنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 216,
+        "text": "اللهم بارك في أجيالنا القادمة بالإسلام والإيمان.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 217,
+        "text": "اللهم احفظ زوجي/زوجتي من الأذى وأدم عليه/ا الرضا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 218,
+        "text": "اللهم اجمعني بأهلي في الجنة.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 219,
+        "text": "اللهم وجِّه قلوب أبنائنا إليك منذ الصغر.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 220,
+        "text": "اللهم لا تجعل الشيطان يتدخل بيني وبين أحبّتي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 221,
+        "text": "اللهم احفظ بيتنا من الحسد والعين والفتن.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 222,
+        "text": "اللهم اجعل محبتنا راسخةً في طاعتك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 223,
+        "text": "اللهم أعِنّا على تربية أبناءٍ يحبونك ويحبون نبيك ﷺ.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 224,
+        "text": "اللهم أَجِر والدينا على كل تضحيةٍ قدّماها.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 225,
+        "text": "اللهم قوِّ أرحامنا واشفِ جراح الماضي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 226,
+        "text": "اللهم بارك في أوقات وأعمال أسرتي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 227,
+        "text": "اللهم اجعل أولادي قُرَّةَ عينٍ لي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 228,
+        "text": "اللهم اجعل بيتنا مهوى القرآن ومحلَّ الصلاة.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 229,
+        "text": "اللهم احفظ أسرتنا من فتن الدين والدنيا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 230,
+        "text": "اللهم زد المودة والرحمة بين الزوجين.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 231,
+        "text": "اللهم اجعل أبناءنا سببًا لقربنا منك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 232,
+        "text": "اللهم ارزقنا الحكمة في تربيتهم وهدايتهم.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 233,
+        "text": "اللهم وفّقني لأكون قدوةً في الإيمان لأهلي.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 234,
+        "text": "اللهم اهدِني وزوجي/زوجتي إلى التعاطف المتبادل.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 235,
+        "text": "اللهم أعنّا على تربية أبنائنا على الصلاح.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 236,
+        "text": "اللهم اجعل أبناءنا أئمةً للمتقين.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 237,
+        "text": "اللهم ارزقني قوةً لخدمة أسرتي بإخلاص.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 238,
+        "text": "اللهم املأ بيتنا بذكرك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 239,
+        "text": "اللهم احفظ أبناءنا من مصائد الدنيا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 240,
+        "text": "اللهم املأ زواجنا حبًا وصبرًا وإيمانًا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 241,
+        "text": "اللهم لا تجعل الكبر أو الأنا تهدم روابط أسرتنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 242,
+        "text": "اللهم توفَّني وأهلي عنّي راضون.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 243,
+        "text": "اللهم اجعلنا أسرةً مجتمعةً في الدنيا والآخرة.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 244,
+        "text": "اللهم اغفر لنا ما قسونا به على أحبتنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 245,
+        "text": "اللهم قوِّ علاقاتنا بك ومن أجلك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 246,
+        "text": "اللهم ارزقنا أصهارًا صالحين وأزواجًا صالحين لأبنائنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 247,
+        "text": "اللهم أجْرِ المحبة والرحمة في أجيالنا.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 248,
+        "text": "اللهم اجعل نسلنا عامرًا بالقرآن والسنّة والإخلاص.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 249,
+        "text": "اللهم لا تضلّ أولادي عن صراطك.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 250,
+        "text": "اللهم اجعل ذرّيتي علماء وحفّاظًا وقادةً في الدين.",
+        "sectionId": "family-children",
+        "sectionTitle": "الأسرة والأبناء"
+    },
+    {
+        "id": 251,
+        "text": "اللهم ارزقني زوجًا/زوجةً يقرّبني/تقرّبني إليك.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 252,
+        "text": "اللهم املأ زواجنا رحمةً وبركةً ومودةً.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 253,
+        "text": "اللهم احفظ علاقتنا من الكبر والأنانية.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 254,
+        "text": "اللهم أعنّا على الحلم واللين مع بعضنا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 255,
+        "text": "اللهم اجعل زواجنا على سنّة نبيّك ﷺ.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 256,
+        "text": "اللهم اجعلنا لباسًا لبعضنا في المحبة والدين.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 257,
+        "text": "اللهم ارزقنا تربية أبناءٍ صالحين معًا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 258,
+        "text": "اللهم نوِّر بيتنا بنورك واملأه بالسكينة.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 259,
+        "text": "اللهم اجعل كلاًّ منّا سكنًا وطمأنينةً للآخر.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 260,
+        "text": "اللهم وفّقنا للتواصل بلطفٍ وصدق.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 261,
+        "text": "اللهم ارزقني زوجًا/زوجةً يذكّرني/تُذكّرني بك دائمًا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 262,
+        "text": "اللهم نمِّ حبَّنا بذكرك.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 263,
+        "text": "اللهم اجعلنا شركاء في الدنيا والآخرة.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 264,
+        "text": "اللهم بلّغنا الكِبَر مع الطاعة لك سويًّا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 265,
+        "text": "اللهم يسِّر لنا العفو عن بعضنا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 266,
+        "text": "اللهم احفظ زواجنا من الشيطان ووساوسه.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 267,
+        "text": "اللهم زِدْ الألفة بين قلوبنا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 268,
+        "text": "اللهم بارك خواصَّنا بالطهر والحياء.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 269,
+        "text": "اللهم اجعل زواجنا سبب سرورٍ لأهلينا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 270,
+        "text": "اللهم أعنّا على دعم نمونا الإيماني سويًّا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 271,
+        "text": "اللهم لا تجعل هموم الدنيا تفسد محبتنا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 272,
+        "text": "اللهم ارزقنا فَهْمًا وحِكمةً عند الاختلاف.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 273,
+        "text": "اللهم اجعل زواجنا بابًا إلى الجنة.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 274,
+        "text": "اللهم ألهمنا شكر بعضنا دائمًا.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 275,
+        "text": "اللهم احفظ زواجنا من الأذى والحسد.",
+        "sectionId": "marriage-relationships",
+        "sectionTitle": "الزواج والعلاقات"
+    },
+    {
+        "id": 276,
+        "text": "اللهم ارزقني التوفيق في مسيرتي المهنية بصدقٍ وكرامة.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 277,
+        "text": "اللهم أعنّي على اجتياز جميع امتحاناتي بتفوّق.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 278,
+        "text": "اللهم اجعل مهنتي سببًا لرزقٍ حلال وصدقةٍ جارية.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 279,
+        "text": "اللهم اهدني لطريق دراسة الطب لخدمة الإنسانية.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 280,
+        "text": "اللهم ارزقني نجاحًا يقوّي ديني.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 281,
+        "text": "اللهم ارزقني الحكمة والوضوح في قراراتي.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 282,
+        "text": "اللهم أعنّي على الموازنة بين العمل والعبادة.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 283,
+        "text": "اللهم بارك لي في وقتي وطاقتي.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 284,
+        "text": "اللهم ارزقني علمًا نافعًا يرفعني.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 285,
+        "text": "اللهم أعنّي على تجاوز كل صعوبات الدراسة والعمل.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 286,
+        "text": "اللهم اجعل عملي في خدمة دينك.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 287,
+        "text": "اللهم احفظني من الاحتراق النفسي واليأس.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 288,
+        "text": "اللهم يسّر لي وظائف تقرّبني إليك.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 289,
+        "text": "اللهم ارزقني الانضباط والدافعية في دراستي.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 290,
+        "text": "اللهم بارك جهدي بالنجاح والأجر.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 291,
+        "text": "اللهم اجعلني سبب شفاء ورحمة في مهنتي الطبية.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 292,
+        "text": "اللهم ارزقني كسبًا يرضيك.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 293,
+        "text": "اللهم اجعل مهنتي نفعًا للناس.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 294,
+        "text": "اللهم وفّقني لاستخدام مهاراتي في رفع المعانين.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 295,
+        "text": "اللهم يسّر لي اجتياز امتحاناتي بوضوحٍ وثقة.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 296,
+        "text": "اللهم اجعل يديّ وعقلي أدواتٍ لنفع خلقك.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 297,
+        "text": "اللهم أعنّي على إتمام كل تكليفٍ بيسرٍ وسهولة.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 298,
+        "text": "اللهم وفقني لاستخدام عملي للخير لا للفخر.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 299,
+        "text": "اللهم افتح لي أبواب الفرص التي تجلب الخير.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 300,
+        "text": "اللهم احفظ نيّتي وطهّر طموحاتي.",
+        "sectionId": "work-career-success",
+        "sectionTitle": "العمل والنجاح"
+    },
+    {
+        "id": 301,
+        "text": "اللهم اجعل آخر كلمتي في الدنيا لا إله إلا الله.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 302,
+        "text": "اللهم ارزقني خاتمةً صالحةً وموتًا هادئًا.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 303,
+        "text": "اللهم قِني عذاب القبر.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 304,
+        "text": "اللهم اجعل يومي الأخير خيرَ أيامي.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 305,
+        "text": "اللهم احشرني مع الصالحين يوم القيامة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 306,
+        "text": "اللهم ثقِّل ميزاني بالحسنات.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 307,
+        "text": "اللهم اغفر لي قبل أن تُقبض روحي.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 308,
+        "text": "اللهم اجعل القرآن أنيسي في قبري.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 309,
+        "text": "اللهم قِني الخوف والمهانة يوم القيامة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 310,
+        "text": "اللهم احشرني مع نبيّك محمد ﷺ.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 311,
+        "text": "اللهم ارزقني منزلةً في جنة الفردوس بلا سُؤالٍ ولا حساب.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 312,
+        "text": "اللهم اجعلني من السبعين ألفًا الذين يدخلون الجنة بغير حساب.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 313,
+        "text": "اللهم قِني النار وعذابها.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 314,
+        "text": "اللهم ثبّتني على الصراط.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 315,
+        "text": "اللهم ظلِّلني تحت عرشك يوم لا ظل إلا ظلّك.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 316,
+        "text": "اللهم اجمعني بمن أحبّ في الجنة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 317,
+        "text": "اللهم ارزقني جوار نبيّك ﷺ في الجنة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 318,
+        "text": "اللهم ارزقني لذّة النظر إلى وجهك الكريم في الآخرة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 319,
+        "text": "اللهم اجعل أعمالي تشفع لي يوم الدين.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 320,
+        "text": "اللهم اجعلني من أهل الذكر والصلاة والشكر حتى الممات.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 321,
+        "text": "اللهم اجعل قبري روضةً من رياض الجنة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 322,
+        "text": "اللهم قِني فتنة القبر وفتنة المسيح الدجّال.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 323,
+        "text": "اللهم تقبّل توبتي وارزقني حسن الخاتمة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 324,
+        "text": "اللهم اقبض روحي وأنت راضٍ عني.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 325,
+        "text": "اللهم آنِسْ وحدتي في القبر واجعل فيه نورًا ورحمة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 326,
+        "text": "اللهم أدخلني الجنة بلا مشقّةٍ ولا حساب.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 327,
+        "text": "اللهم ارزقني نعيمًا أبديًا في الآخرة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 328,
+        "text": "اللهم اجعلني جارًا للأنبياء والشهداء.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 329,
+        "text": "اللهم لا تُمتني وعليَّ دَينٌ أو ندمٌ.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 330,
+        "text": "اللهم احفظ أهلي وأولادي من العذاب بعد الموت.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 331,
+        "text": "اللهم املأ قبري نورًا وقرآنًا وسلامًا.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 332,
+        "text": "اللهم ارزقني أثرًا صالحًا بعدي.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 333,
+        "text": "اللهم عَوِّضْ كلَّ مشقةٍ عشتُها سلامًا في الآخرة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 334,
+        "text": "اللهم أدخلنا الجنة مع أحبّتنا.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 335,
+        "text": "اللهم اكتبني فيمن غفرتَ لهم سلفًا.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 336,
+        "text": "اللهم اسقِني من يد نبيّك ﷺ عند الكوثر.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 337,
+        "text": "اللهم لا تُذيقني النار ولو لحظةً واحدة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 338,
+        "text": "اللهم ارزقني نفسًا تشتاق إلى الآخرة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 339,
+        "text": "اللهم ذكِّرني بالموت كي أحيا حياةً أحسن.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 340,
+        "text": "اللهم نجِّني من الخزي يوم القيامة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 341,
+        "text": "اللهم اجعل جزاء كل عملٍ صالحٍ الجنة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 342,
+        "text": "اللهم ثبّتني حتى ألقاك.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 343,
+        "text": "اللهم آتني كتابي بيميني.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 344,
+        "text": "اللهم لا تتركني وحدي في لحظاتي الأخيرة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 345,
+        "text": "اللهم اجعلني من الفائزين يوم القيامة.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 346,
+        "text": "اللهم اجعل دموعي سبب نجاةٍ لي.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 347,
+        "text": "اللهم يسِّر حسابي.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 348,
+        "text": "اللهم آنِسْ روحي بالسلام في القبر.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 349,
+        "text": "اللهم خفِّف قلبي يوم تثقل القلوب.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 350,
+        "text": "اللهم ارزقني الفوز في الآخرة قبل كل شيء.",
+        "sectionId": "akhirah-death-hereafter",
+        "sectionTitle": "الآخرة والموت"
+    },
+    {
+        "id": 351,
+        "text": "اللهم قِني شرَّ كل إنسٍ وجنّ.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 352,
+        "text": "اللهم احفظني من العين والحسد.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 353,
+        "text": "اللهم احفظني وأهلي من السحر وآثاره.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 354,
+        "text": "اللهم أحطني بملائكةٍ تحرسني من الأذى.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 355,
+        "text": "اللهم احفظ عقلي وبدني وروحي وبيتي من السحر.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 356,
+        "text": "اللهم ارزقني قوةً لمقاومة كل وساوس الشيطان.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 357,
+        "text": "اللهم البسني سترك وحمايتك ليلًا ونهارًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 358,
+        "text": "اللهم طهِّر بيتي من كل حضورٍ خبيث.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 359,
+        "text": "اللهم ابطِل كل سحرٍ صُنع لي أو لأحبّتي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 360,
+        "text": "اللهم اجعل آية الكرسي لي درعًا وحِصنًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 361,
+        "text": "اللهم احفظ أبنائي من العين.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 362,
+        "text": "اللهم اجعل سورتَي الفلق والناس وِقايتي اليومية.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 363,
+        "text": "اللهم اجعل ذكرك درعي من كل أذى.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 364,
+        "text": "اللهم لا تجعل حسدًا ولا بغضًا يمسّني.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 365,
+        "text": "اللهم ارزقني حِفظ أذكار النبي ﷺ اليومية.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 366,
+        "text": "اللهم احفظ مالي وصحتي من الشر الخفي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 367,
+        "text": "اللهم اجعل كل نظرةٍ إليّ دعاءً لا حسدًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 368,
+        "text": "اللهم احفظني من ذوي الأحقاد الخفيّة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 369,
+        "text": "اللهم احفظ قلبي من الطاقات المظلمة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 370,
+        "text": "اللهم احفظ بيتي بملائكةٍ تحرسه.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 371,
+        "text": "اللهم ارزقني السلامة في سفري ومنامي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 372,
+        "text": "اللهم استبدِل كل لعنةٍ بركة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 373,
+        "text": "اللهم اجعل دعائي يرفع عني كل أذى خفي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 374,
+        "text": "اللهم اجعل نورًا على جبيني ولساني وخُطاي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 375,
+        "text": "اللهم قِني اللعنات والمكائد الخفيّة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 376,
+        "text": "اللهم استرني عن أعين من أراد بي سوءًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 377,
+        "text": "اللهم أزل كل أثرٍ للسحر من حياتي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 378,
+        "text": "اللهم اشفني من كل بلاءٍ روحيٍّ لا أعلمه.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 379,
+        "text": "اللهم أنزل الرحمة والسكينة في بيتي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 380,
+        "text": "اللهم احفظني من الكوابيس والقلق ليلًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 381,
+        "text": "اللهم اجعل ملائكتك على كل بابٍ ونافذةٍ في بيتي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 382,
+        "text": "اللهم لا تجعل السحر يؤثّر على أفكاري أو إيماني.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 383,
+        "text": "اللهم طهّرني وأهلي بأسمائك الحسنى.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 384,
+        "text": "اللهم دمّر كلَّ مصدرِ سحرٍ مُوَجَّهٍ إلينا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 385,
+        "text": "اللهم ارزقنا نومًا آمنًا مطمئنًا دائمًا.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 386,
+        "text": "اللهم احفظ قلبي من الوساوس والخيالات المظلمة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 387,
+        "text": "اللهم وفّقني لذكرك في لحظات الخوف.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 388,
+        "text": "اللهم اجعل بيتي وروحي حصنًا للإيمان.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 389,
+        "text": "اللهم أحبط كلَّ كيدِ عدوٍّ تجاهي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 390,
+        "text": "اللهم احفظ طاقتي وروحي من التلف.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 391,
+        "text": "اللهم وفّقني لاستخدام السنّة في الشفاء والحماية.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 392,
+        "text": "اللهم لا تجعل خوفي من أحدٍ فوق خوفي منك.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 393,
+        "text": "اللهم اشفِني من كل داءٍ ظاهرٍ وباطن.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 394,
+        "text": "اللهم اكسر قيود السحر واللعنات والشرّ المرتبطة بي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 395,
+        "text": "اللهم ارزقني قوةً لمجاهدة كل شرٍّ خفي.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 396,
+        "text": "اللهم احفظ بيتي ومالي وروحي من سرقة البركة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 397,
+        "text": "اللهم احفظ أحبّتي من كل نيّة سوء.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 398,
+        "text": "اللهم اسكن ملائكتك معي في كل حين.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 399,
+        "text": "اللهم ارزقني نور التوكّل الذي يبدّد كل خوف.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 400,
+        "text": "اللهم اجعل رُقيتي وقراءتي للقرآن قويةً مقبولة.",
+        "sectionId": "protection-evil",
+        "sectionTitle": "الوقاية من الشر"
+    },
+    {
+        "id": 401,
+        "text": "اللهم ارزقني سكينةَ العقل وطمأنينةَ القلب.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 402,
+        "text": "اللهم أزل كل حزنٍ يبعدني عنك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 403,
+        "text": "اللهم ارزقني قلبًا راضيًا بقضائك وقدرك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 404,
+        "text": "اللهم ارفع عني القلق والاكتئاب والخوف.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 405,
+        "text": "اللهم ارزقني سكينةً داخلية وشكرًا دائمًا.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 406,
+        "text": "اللهم اشفِ قلبي من صدمات الماضي وآلامه.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 407,
+        "text": "اللهم ارزقني صفاءَ الفكر وسهولةَ الشعور.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 408,
+        "text": "اللهم اجعل كل دمعةٍ شهادةَ أملٍ فيك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 409,
+        "text": "اللهم أزل الثقل عن صدري.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 410,
+        "text": "اللهم بدّل همّي ثقةً بك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 411,
+        "text": "اللهم ثبّتني وإن انكسرَت نفسي.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 412,
+        "text": "اللهم ارزقني تفاؤلًا مؤسَّسًا على الإيمان.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 413,
+        "text": "اللهم أعنّي على التركيز على ما يرضيك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 414,
+        "text": "اللهم اجعلني صبورًا صامدًا أمام الابتلاءات.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 415,
+        "text": "اللهم ارزقني قوةً لتجاوز هبوطاتِ النفس.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 416,
+        "text": "اللهم آنِسْ وحدتي بقربك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 417,
+        "text": "اللهم لا تجعل قلبي يسكن اليأس.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 418,
+        "text": "اللهم ارزقني القدرة على العفو والتجاوز.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 419,
+        "text": "اللهم احفظ صحتي النفسية وطاقةَ مشاعري.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 420,
+        "text": "اللهم ألهمني أن أعيش كلَّ يومٍ بغايةٍ ومعنى.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 421,
+        "text": "اللهم ارزقني ابتسامةً نابعةً من الداخل.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 422,
+        "text": "اللهم أعنّي على إيجاد السكينة بذكرك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 423,
+        "text": "اللهم لا تجعل آراء الناس تتحكّم في مشاعري.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 424,
+        "text": "اللهم طهّر قلبي من الغضب والغيرة والبغضاء.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 425,
+        "text": "اللهم اجعل نفسي قانعةً بالقليل.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 426,
+        "text": "اللهم أرِني نورك في أشدِّ أيامي ظلمةً.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 427,
+        "text": "اللهم اجعل نفسي ساكنةً كبحرِ ما قبل الفجر.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 428,
+        "text": "اللهم أخرجني من الحيرة إلى الوضوح.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 429,
+        "text": "اللهم ألهمني رحمتك في كلِّ ألمٍ.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 430,
+        "text": "اللهم بدّل حزني قبولًا وقوةً.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 431,
+        "text": "اللهم ارزقني أدواتٍ وقدرةً لإدارة الشدائد.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 432,
+        "text": "اللهم احفظ قلبي من اليأس والشك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 433,
+        "text": "اللهم ارزقني نضجًا عاطفيًا وحكمةً.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 434,
+        "text": "اللهم ارفع عن روحي كلَّ أعباءٍ مثقلةٍ.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 435,
+        "text": "اللهم اجعل كلَّ بكاءٍ يعقبه منك سلوى.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 436,
+        "text": "اللهم أعنّي على الثبات عند الضغوط.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 437,
+        "text": "اللهم اجعلني رفيقًا بنفسي ولطيفًا بالناس.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 438,
+        "text": "اللهم لا تجعل مشقة النفس تضعف ديني.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 439,
+        "text": "اللهم اجعل قرآنك شفاءً لروحي.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 440,
+        "text": "اللهم ثبّتني إذا اضطربت الحياة.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 441,
+        "text": "اللهم جدّد أملي كلَّ صباح.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 442,
+        "text": "اللهم بدّل جراحَ نفسي بقوّةٍ روحيةٍ.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 443,
+        "text": "اللهم أعنّي على إدارة العلاقات بحكمة.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 444,
+        "text": "اللهم ارزقني ثقةً مبنيّةً على الإيمان لا على الأنا.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 445,
+        "text": "اللهم أعنّي على ترك ما لا أملكه ولا أسيطر عليه.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 446,
+        "text": "اللهم دلّني على صحبةٍ داعمةٍ طيبةٍ.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 447,
+        "text": "اللهم اجعلني مصدرَ سكينةٍ للناس.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 448,
+        "text": "اللهم املأ بيتي أمانًا نفسيًا وطمأنينةً.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 449,
+        "text": "اللهم لا تجعلني أفقد رؤية رحمتك.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 450,
+        "text": "اللهم ارزقني شجاعةَ الشفاء والنمو.",
+        "sectionId": "emotional-wellbeing",
+        "sectionTitle": "السكينة والطمأنينة"
+    },
+    {
+        "id": 451,
+        "text": "اللهم اجعلني حافظًا/حافظةً لكتابك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 452,
+        "text": "اللهم يسّر عليّ حفظ القرآن وثبّته في قلبي.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 453,
+        "text": "اللهم أعنّي على فهم كل آية والعمل بها.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 454,
+        "text": "اللهم ارزقني علمًا نافعًا.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 455,
+        "text": "اللهم زدني علمًا وحكمةً وعملاً.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 456,
+        "text": "اللهم ارزقني حبَّ تعلّم دينك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 457,
+        "text": "اللهم اجعلني طالبًا/طالبةً للعلم الشرعي.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 458,
+        "text": "اللهم ارزقني مجالسةَ العلماء الصالحين.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 459,
+        "text": "اللهم ارزقني القدرة على تعليم ما أتعلّم.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 460,
+        "text": "اللهم افتح لي أبواب الفقه العميق في الدين.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 461,
+        "text": "اللهم ارزقني إتقان العربية لفهم القرآن.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 462,
+        "text": "اللهم وفّقني لإتمام القرآن بإخلاصٍ ومحبّة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 463,
+        "text": "اللهم بارك في ذهني بالحفظ والذكاء والفهم.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 464,
+        "text": "اللهم اجعل قلبي يحبّ كلمات كتابك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 465,
+        "text": "اللهم ارزقني تعليم القرآن للناس وأجرًا جاريًا.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 466,
+        "text": "اللهم اجعلني من أهل القرآن.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 467,
+        "text": "اللهم ارزقني حضور حلقات العلم كثيرًا.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 468,
+        "text": "اللهم تقبّل رحلتي في طلب العلم واجعلها مثمرة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 469,
+        "text": "اللهم احفظني من الكِبر في التعلّم.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 470,
+        "text": "اللهم اجعل كل آية أحفظها هاديَةً لعملي.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 471,
+        "text": "اللهم ارزق أبنائي علم القرآن والحديث.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 472,
+        "text": "اللهم اجعل أسرتي أسرةَ علمٍ وعبادة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 473,
+        "text": "اللهم اكتبني في عِداد علماء دينك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 474,
+        "text": "اللهم أعنّي على الدراسة لوجهك وحدك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 475,
+        "text": "اللهم أعنّي على الجمع بين التعلّم والتواضع.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 476,
+        "text": "اللهم احفظ قلبي من علمٍ بلا عمل.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 477,
+        "text": "اللهم ارزقني الوضوح عند الدراسة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 478,
+        "text": "اللهم ارزقني التدبّر العميق في آياتك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 479,
+        "text": "اللهم اجعل القرآن نورًا في قلبي وقبري.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 480,
+        "text": "اللهم ارزقني علمَ الصالحين من قبلي.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 481,
+        "text": "اللهم أعنّي على حفظ أسمائك الحسنى والعمل بها.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 482,
+        "text": "اللهم زدني حبًا للسنّة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 483,
+        "text": "اللهم اجعلني سببًا لنشر العلم الصحيح.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 484,
+        "text": "اللهم اجعل علمي نافعًا لي لا حجّةً عليّ.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 485,
+        "text": "اللهم ارزقني التعليم برحمةٍ وصبر.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 486,
+        "text": "اللهم افتح قلبي للتعلّم كعلماء السلف.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 487,
+        "text": "اللهم أعنّي على مواظبة حضور الدروس الشرعية.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 488,
+        "text": "اللهم اجعل علمي نورًا لا تكبّرًا.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 489,
+        "text": "اللهم احفظ علمي من الرياء.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 490,
+        "text": "اللهم ارزقني الثبات على طلب العلم.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 491,
+        "text": "اللهم وفّقني لخدمة الإسلام بالعلم والحكمة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 492,
+        "text": "اللهم دلّني على معلّمين مخلصين حكماء.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 493,
+        "text": "اللهم ارزقني كتبًا نافعةً وهُدىً قويمًا.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 494,
+        "text": "اللهم اجعل قلبي وعاءً لهدايتك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 495,
+        "text": "اللهم أحيني وأمتني طالبًا/طالبةً خادمًا/خادمةً للدين.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 496,
+        "text": "اللهم أعنّي على اجتياز جميع الاختبارات بتفوّقٍ وأجر.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 497,
+        "text": "اللهم اجعل علمي شاهدًا لي لا عليّ.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 498,
+        "text": "اللهم اجعل القرآن أنيسي في كل لحظة.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 499,
+        "text": "اللهم لا تجعلني أتوقف عن التعلّم حتى ألقاك.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 500,
+        "text": "اللهم احسبني من أهل العلم والنور.",
+        "sectionId": "knowledge-hifdh",
+        "sectionTitle": "العلم والفقه"
+    },
+    {
+        "id": 501,
+        "text": "اللهم اجعلني من عبادك الصالحين الذين يخشونك.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 502,
+        "text": "اللهم زدني تقوى كلَّ يوم.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 503,
+        "text": "اللهم اهدِ قلبي للطهارة والتواضع.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 504,
+        "text": "اللهم ثبّتني على الصلاة والعبادة.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 505,
+        "text": "اللهم احفظني من الوقوع في الذنوب علمًا وجهلًا.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 506,
+        "text": "اللهم جنّبني النفاق وارزقني الإخلاص في كل عمل.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 507,
+        "text": "اللهم اجعلني صبورًا شكورًا في كل حال.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 508,
+        "text": "اللهم طهّر نيّتي وأعمالي.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 509,
+        "text": "اللهم اهدني لاتباع سنّة نبيّك ﷺ.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 510,
+        "text": "اللهم اجعلني مراقبًا لك في السرّ والعلن.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 511,
+        "text": "اللهم زدني حُسن خُلُقٍ ومكارمَ أخلاق.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 512,
+        "text": "اللهم اجعلني متواضعًا ليّنًا مع الناس.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 513,
+        "text": "اللهم أعنّي على العفو عمّن ظلمني.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 514,
+        "text": "اللهم جنبني الكِبر والعُجب.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 515,
+        "text": "اللهم ارزقني قول الحق بلطفٍ دائمًا.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 516,
+        "text": "اللهم اجعل قلبي لينًا مُحبًّا لخلقك.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 517,
+        "text": "اللهم احفظني من الحسد والغيرة.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 518,
+        "text": "اللهم قوِّ إيماني عند نزول البلاء.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 519,
+        "text": "اللهم ارزقني فقه أوامرك وحُسن الاتّباع.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 520,
+        "text": "اللهم وفّقني لتوبةٍ نصوحٍ عن كل تقصيرٍ مضى.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 521,
+        "text": "اللهم زدني حبًا لك ولرسولك ﷺ.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 522,
+        "text": "اللهم ألهمني ذكرك كثيرًا ومراقبتك.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 523,
+        "text": "اللهم جنّبني اللغو وأعمالَ لا تنفع.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 524,
+        "text": "اللهم ارزقني دوامَ العبادة وإن قلّت.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 525,
+        "text": "اللهم ثبّت قلبي على دينك عند الشدائد.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 526,
+        "text": "اللهم ارزقني الإخلاص في سائر العبادات.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 527,
+        "text": "اللهم اعصمني من القنوط واليأس.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 528,
+        "text": "اللهم زدني تواضعًا لك ولعبادك.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 529,
+        "text": "اللهم اجعلني من المستغفرين دائمًا.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 530,
+        "text": "اللهم ارزقني التوازن بين الدنيا والآخرة بحق.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 531,
+        "text": "اللهم قوِّ صلتي بالقرآن.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 532,
+        "text": "اللهم أعنّي على الصلاة بخشوع.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 533,
+        "text": "اللهم ارزقني نور الإيمان الذي لا يخبو.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 534,
+        "text": "اللهم جنّبني الخصومات والفرقة.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 535,
+        "text": "اللهم ارزقني محبةَ صحبةِ الصالحين.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 536,
+        "text": "اللهم قِني وساوس الشيطان.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 537,
+        "text": "اللهم أعنّي على نشر السلام واللطف.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 538,
+        "text": "اللهم ارزقني قلبًا يشتاق إلى الجنة.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 539,
+        "text": "اللهم وفّقني لمرضاتك في كلِّ عملي.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 540,
+        "text": "اللهم اجعلني شاكرًا عند الرخاء صابرًا عند البلاء.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 541,
+        "text": "اللهم أعنّي على الوفاء بالعهود والأمانات.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 542,
+        "text": "اللهم احفظ لساني من أذى الناس.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 543,
+        "text": "اللهم اجعلني كريمًا رحيمًا.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 544,
+        "text": "اللهم وفّقني للأمر بالمعروف والنهي عن المنكر.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 545,
+        "text": "اللهم ارزقني تواضعًا عند النجاح وصبرًا عند الابتلاء.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 546,
+        "text": "اللهم طهّر قلبي من البغضاء والضغائن.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 547,
+        "text": "اللهم ارزقني حسن الاستماع وقلة الكلام.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 548,
+        "text": "اللهم جنّبني الغيبةَ والنميمةَ.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 549,
+        "text": "اللهم زد خشيتي لك سرًّا وعلنًا.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 550,
+        "text": "اللهم اجعلني ممّن يُبعثون يوم القيامة بلا خوفٍ ولا ندامة.",
+        "sectionId": "righteousness-piety",
+        "sectionTitle": "الاستقامة والتقوى"
+    },
+    {
+        "id": 551,
+        "text": "اللهم تقبّل حجّي وعمرتي عبادةً مقبولةً.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 552,
+        "text": "اللهم اجعلني من المخلصين في أداء الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 553,
+        "text": "اللهم يسّر لي أداء المناسك في أمنٍ ويُسر.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 554,
+        "text": "اللهم طهّر قلبي وروحي في حجّي وعمرتي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 555,
+        "text": "اللهم اجعل حجّي سببًا لزيادة إيماني.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 556,
+        "text": "اللهم اغفر لي ذنوبي في الحج وتقبّل توبتي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 557,
+        "text": "اللهم أرجعني من الحج مجدَّد الروح والعمل.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 558,
+        "text": "اللهم أعنّي على المداومة على الطاعات بعد الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 559,
+        "text": "اللهم اجعلني ممّن يحافظون على الطهارة بعد الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 560,
+        "text": "اللهم ارزقني التوفيق لأداء الحج مرارًا.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 561,
+        "text": "اللهم ارزقني كثرةَ العمرة بقبولٍ وإخلاص.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 562,
+        "text": "اللهم تقبّل دعائي وصلاتي يوم عرفة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 563,
+        "text": "اللهم بارك لي في أيّامي بمنى ومزدلفة وعرفة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 564,
+        "text": "اللهم تقبّل موقفي بعرفة واجعل دعائي مستجابًا.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 565,
+        "text": "اللهم اجعلني متواضعًا صابرًا في سائر عبادتي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 566,
+        "text": "اللهم ارزقني بركاتِ آثار نبيّك ﷺ في الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 567,
+        "text": "اللهم احفظني من كل أذًى في سفري.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 568,
+        "text": "اللهم ارزقني سكينةَ القلب في الحج والعمرة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 569,
+        "text": "اللهم تقبّل أضاحينا وصدقاتنا برضاك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 570,
+        "text": "اللهم اجعل البيت الحرام لنا ولأهلينا دارَ أمنٍ وسلام.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 571,
+        "text": "اللهم اجعل حجّي رحمةً لي يوم القيامة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 572,
+        "text": "اللهم وفقني لنشر نِعَم الحج وثماره بين الناس.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 573,
+        "text": "اللهم جدّد صلتي بك من خلال الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 574,
+        "text": "اللهم احفظني من العُجب في العبادات.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 575,
+        "text": "اللهم اجعلني ممّن يخرجون من الحج مغفورًا لهم.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 576,
+        "text": "اللهم زدني حبًا لسنّة نبيّك في المناسك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 577,
+        "text": "اللهم أعنّي على إبقاء روح الحج حيّةً في حياتي اليومية.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 578,
+        "text": "اللهم تقبّل صومي وصلاتي في أشهر الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 579,
+        "text": "اللهم ارزقني قوّةً لإتمام جميع المناسك على وجهها.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 580,
+        "text": "اللهم ارزقني فرصة الحج مع أسرتي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 581,
+        "text": "اللهم ارزقني وأحبّتي صحةً للرحلة المباركة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 582,
+        "text": "اللهم اجعل بركات الحج ملازمةً لي أبدًا.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 583,
+        "text": "اللهم وفّقني لحضورٍ كاملٍ وخشوعٍ في العبادات.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 584,
+        "text": "اللهم احفظني من النسيان في أداء المناسك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 585,
+        "text": "اللهم تقبّل دعائي في الحج والعمرة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 586,
+        "text": "اللهم اجعل حجّي نقطةَ تحوّلٍ في حياتي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 587,
+        "text": "اللهم ارزقني خُلُقَ إبراهيم عليه السلام في العبادة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 588,
+        "text": "اللهم ثبّتني في الطواف والسعي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 589,
+        "text": "اللهم قِني الملهيات في العبادة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 590,
+        "text": "اللهم ارزقني بهجةَ العبادة لك بحريةٍ وإخلاص.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 591,
+        "text": "اللهم أعنّي على ذكرك في كل خطوةٍ في الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 592,
+        "text": "اللهم تقبّل أضاحينا وصدقاتنا برضاك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 593,
+        "text": "اللهم ارزقني التمامَ لحجّي وعمرتي قريبًا.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 594,
+        "text": "اللهم اجعل حجّي شفاعةً لي يوم القيامة.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 595,
+        "text": "اللهم اجعل حجّي سببًا لإلهام الناس إلى قربك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 596,
+        "text": "اللهم أعنّي على حمل دروس الحج لأهلي ومجتمعي.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 597,
+        "text": "اللهم زدني صبرًا وقوّة طَوال المناسك.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 598,
+        "text": "اللهم تقبّل صلواتي ودعائي للمسلمين في الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 599,
+        "text": "اللهم اجعلني من المخلصين المتواضعين في الحج.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 600,
+        "text": "اللهم ارزقني وأحبّتي لذّة زيارة بيتك الحرام.",
+        "sectionId": "hajj-umrah",
+        "sectionTitle": "الحج والعمرة"
+    },
+    {
+        "id": 601,
+        "text": "اللهم ارحم والديَّ كما ربياني.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 602,
+        "text": "اللهم ارزق والديَّ طولَ العمر وصحّةَ البدن.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 603,
+        "text": "اللهم أجزل الأجر لوالديَّ على تضحياتهما.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 604,
+        "text": "اللهم اهدِ أسرتي جميعًا إلى الصراط المستقيم.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 605,
+        "text": "اللهم ألِّف بين قلوبنا بالمحبة والإخلاص.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 606,
+        "text": "اللهم احفظ أسرتي من الفرقة والنزاع.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 607,
+        "text": "اللهم ارزق إخوتي إيمانًا قويًا وسعادةً دائمة.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 608,
+        "text": "اللهم وفّقني لبرّ والديَّ وخدمتهما بالإحسان.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 609,
+        "text": "اللهم تقبّل دعاء والديَّ واغفر ذنوبهما.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 610,
+        "text": "اللهم ارفع درجاتهما في الجنة مع الصالحين.",
+        "sectionId": "parents-family-ties",
+        "sectionTitle": "الوالدان وصلة الرحم"
+    },
+    {
+        "id": 611,
+        "text": "اللهم قِني عذاب القبر.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 612,
+        "text": "اللهم اجعل قبري واسعًا منيرًا.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 613,
+        "text": "اللهم ارزقني أنيسًا صالحًا في قبري.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 614,
+        "text": "اللهم احشرني مع المهتدين يوم القيامة.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 615,
+        "text": "اللهم ظلِّلني تحت عرشك يوم لا ظل إلا ظلّك.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 616,
+        "text": "اللهم يسّر حسابي.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 617,
+        "text": "اللهم قِني أهوال يوم القيامة.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 618,
+        "text": "اللهم اجعلني من المسرعين على الصراط.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 619,
+        "text": "اللهم لا تفضحني بذنبي يوم العرض.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 620,
+        "text": "اللهم أدخلني الجنة بغير حسابٍ ولا عذاب.",
+        "sectionId": "protection-grave",
+        "sectionTitle": "القبر ويوم القيامة"
+    },
+    {
+        "id": 621,
+        "text": "اللهم ارزقني دارًا بجوار نبيّك في الجنة.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 622,
+        "text": "اللهم ارزقني فردوس الأعلى بلا حساب.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 623,
+        "text": "اللهم اجعلني من أوائل الداخلين إلى الجنة.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 624,
+        "text": "اللهم ارزقني صحبة الأنبياء والشهداء.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 625,
+        "text": "اللهم ارزقني لذّة النظر إلى وجهك الكريم.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 626,
+        "text": "اللهم ابنِ لي قصرًا في الجنة.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 627,
+        "text": "اللهم ارزقني سرورًا لا يزول في الآخرة.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 628,
+        "text": "اللهم اسقني من حوض نبيّك ﷺ.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 629,
+        "text": "اللهم اجمعني بأحبّتي الصالحين في الجنة.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 630,
+        "text": "اللهم لا تحرمني الجنة بسبب ذنوبي.",
+        "sectionId": "jannah-hereafter",
+        "sectionTitle": "الجنة والآخرة"
+    },
+    {
+        "id": 631,
+        "text": "اللهم اهدِ أصدقائي وثبّتهم على الصراط.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 632,
+        "text": "اللهم اجعلني متواضعًا عند النصر والهزيمة.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 633,
+        "text": "اللهم أعنّي على ترك الكسل والتسويف.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 634,
+        "text": "اللهم قِني الرياءَ في الأعمال.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 635,
+        "text": "اللهم اجعلني راضيًا بقضائك وقدرك.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 636,
+        "text": "اللهم أزل من قلبي كل حسدٍ وبغضاء.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 637,
+        "text": "اللهم ارزقني ذاكرةً قويةً وعقلًا بصيرًا.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 638,
+        "text": "اللهم اجعلني من أهل الشكر.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 639,
+        "text": "اللهم اغفر ذنوبي كلَّها: ماضيها وحاضرها.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 640,
+        "text": "اللهم ارزقني صحبةَ الصالحين دائمًا.",
+        "sectionId": "miscellaneous",
+        "sectionTitle": "أدعية عامة"
+    },
+    {
+        "id": 641,
+        "text": "اللهم احفظني وأهلي من العين.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 642,
+        "text": "اللهم اقِنا غيرةَ الحاسدين وحسدهم.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 643,
+        "text": "اللهم احفظنا من السحر وكلِّ رُقيةٍ خبيثة.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 644,
+        "text": "اللهم أحبط كلَّ كيدٍ أُريد بنا.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 645,
+        "text": "اللهم كن لنا وليًّا من كل أذى ظاهرٍ وباطن.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 646,
+        "text": "اللهم اجعل لنا حصنًا بأسمائك وكلماتك من كل شر.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 647,
+        "text": "اللهم أحطنا بملائكةٍ تدفع الأذى عنا.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 648,
+        "text": "اللهم احفظ بيوتنا من زوّار السوء ووساوسهم.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 649,
+        "text": "اللهم ارزقنا حالةً دائمةً من الحفظ الروحي.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 650,
+        "text": "اللهم ارفع كلَّ بلاءٍ أصابنا علمناه أو لم نعلمه.",
+        "sectionId": "protection-evil-eye",
+        "sectionTitle": "الوقاية من الأذى"
+    },
+    {
+        "id": 651,
+        "text": "اللهم قوِّ إيماني كلَّ يوم.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 652,
+        "text": "اللهم ثبّت قلبي على دينك.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 653,
+        "text": "اللهم لا تدخل الشك في إيماني.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 654,
+        "text": "اللهم احفظني من ضعف الدين.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 655,
+        "text": "اللهم زدني حبًّا للصلاة والقرآن والذكر.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 656,
+        "text": "اللهم أعنّي على طاعتك سرًّا وعلنًا.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 657,
+        "text": "اللهم ارزقني الاستقامة حتى آخر نَفَس.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 658,
+        "text": "اللهم ارزقني صحبة الصالحين.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 659,
+        "text": "اللهم احفظ إيماني عند إحاطة الفتن.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 660,
+        "text": "اللهم ارزقني قوّة الثبات على حقّك مهما كان.",
+        "sectionId": "steadfastness-imaan",
+        "sectionTitle": "الثبات على الإيمان"
+    },
+    {
+        "id": 661,
+        "text": "اللهم اجعل القرآن ربيع قلبي.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 662,
+        "text": "اللهم وفّقني لتلاوة القرآن بتدبّر وإخلاص.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 663,
+        "text": "اللهم اجعلني ممّن يعملون بالقرآن.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 664,
+        "text": "اللهم وفّقني لتعلّم القرآن وتعليمه بإخلاص.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 665,
+        "text": "اللهم اجعل القرآن نورًا لي في قبري ويوم القيامة.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 666,
+        "text": "اللهم اجعل القرآن شفيعًا لي يوم القيامة.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 667,
+        "text": "اللهم يسّر حفظ القرآن وثبّته في صدري.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 668,
+        "text": "اللهم اجعل كل آية أتلوها زيادةً في الهُدى.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 669,
+        "text": "اللهم ارزق أهلي حبَّ القرآن.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 670,
+        "text": "اللهم افتح لي أبواب العلم النافع.",
+        "sectionId": "quran-knowledge",
+        "sectionTitle": "القرآن وطلب العلم"
+    },
+    {
+        "id": 671,
+        "text": "اللهم وفّقني لدراسة الدين وفهمه بعمق.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 672,
+        "text": "اللهم ارزقني الحكمة في تعليم الإسلام.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 673,
+        "text": "اللهم استعملني لنفع الأمة بالعلم.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 674,
+        "text": "اللهم وفّقني لخدمة دينك بإخلاص.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 675,
+        "text": "اللهم اجعلني سبب هدايةٍ وبيانٍ للناس.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 676,
+        "text": "اللهم احفظني من الكِبر في التعلّم والتعليم.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 677,
+        "text": "اللهم تقبّل جهودي في خدمة الدين.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 678,
+        "text": "اللهم اجعل أثري قرآنًا وعلمًا.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 679,
+        "text": "اللهم ارزقني معلّمين صالحين مخلصين.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 680,
+        "text": "اللهم زد في العلماء الراشدين الهادين.",
+        "sectionId": "scholar-spreader",
+        "sectionTitle": "الدعوة والقيادة"
+    },
+    {
+        "id": 681,
+        "text": "اللهم ارزقني ذريةً صالحةً تحبك وتطيعك.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 682,
+        "text": "اللهم اهدِ أبنائي لعبادتك وتعلّم دينك.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 683,
+        "text": "اللهم احفظ قلوبهم وإيمانهم وحياءهم.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 684,
+        "text": "اللهم اجعلهم أئمةً للمتقين.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 685,
+        "text": "اللهم بارك في صحتهم وأخلاقهم وقدَرهم.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 686,
+        "text": "اللهم اجعلهم من أهل الجنة.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 687,
+        "text": "اللهم احفظهم من رفقاءِ السوء والآثار السيئة.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 688,
+        "text": "اللهم وفّقهم لإقامة الحق والعدل.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 689,
+        "text": "اللهم ارزقهم حفظ القرآن والعمل به.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 690,
+        "text": "اللهم اجعل أسرتنا مجتمعةً على طاعتك.",
+        "sectionId": "righteous-offspring",
+        "sectionTitle": "الذرية الصالحة"
+    },
+    {
+        "id": 691,
+        "text": "اللهم ارزقني الصبر عند الشدة.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 692,
+        "text": "اللهم ارزقني الثقة بك حين لا أفهم حكمتك.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 693,
+        "text": "اللهم اجعل كل ابتلاءٍ تطهيرًا لي.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 694,
+        "text": "اللهم قرّبني إليك بالشدائد.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 695,
+        "text": "اللهم انصرني على صراعاتي الداخلية.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 696,
+        "text": "اللهم ارزقني التوكّل كحال أنبيائك.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 697,
+        "text": "اللهم لا تتركني وحدي في الشدائد.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 698,
+        "text": "اللهم أرِني النِعم الكامنة في ابتلائي.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 699,
+        "text": "اللهم ارزقني الثبات بقوّتك.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 700,
+        "text": "اللهم اجعل ألمي عبادةً ودمعي دعاءً.",
+        "sectionId": "trials-hardship",
+        "sectionTitle": "الصبر في الابتلاء"
+    },
+    {
+        "id": 701,
+        "text": "اللهم اهدني في كل قرارٍ أتخذه.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 702,
+        "text": "اللهم بارك في وقتي بالإنتاج والإخلاص.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 703,
+        "text": "اللهم ضع البركة في دخلي ونفقتي.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 704,
+        "text": "اللهم بارك في أهلي وصحتي وبيتي.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 705,
+        "text": "اللهم اجعل نيّتي خالصةً لك دائمًا.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 706,
+        "text": "اللهم وجّهني إلى ما فيه خيرُ دُنياي وآخرتي.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 707,
+        "text": "اللهم زدني من الرزق الحلال والعمل النافع.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 708,
+        "text": "اللهم أزِل العقبات بيني وبين كلِّ خير.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 709,
+        "text": "اللهم ارزقني قلبًا قنوعًا متفائلًا.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 710,
+        "text": "اللهم دلّني كلَّ يومٍ إلى ما يقرّبني إليك.",
+        "sectionId": "guidance-barakah",
+        "sectionTitle": "الهداية والبركة"
+    },
+    {
+        "id": 711,
+        "text": "اللهم زدني إخلاصًا وتواضعًا.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 712,
+        "text": "اللهم اغفر غفلتي.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 713,
+        "text": "اللهم امحُ ذنوبي الخفيّة واغفر علانيتي.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 714,
+        "text": "اللهم تقبّل توبتي ولا تردّني.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 715,
+        "text": "اللهم أذِقني حلاوةَ عفوك.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 716,
+        "text": "اللهم طهّر قلبي من كلِّ داءٍ روحي.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 717,
+        "text": "اللهم ارفع نفسي في درجات الصالحين.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 718,
+        "text": "اللهم لا تحرمني رحمتك بذنبي.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 719,
+        "text": "اللهم ارزقني قيام الليل وإخلاص الدعاء.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 720,
+        "text": "اللهم ارزقني لسانًا لا ينطق إلا بالخير.",
+        "sectionId": "spiritual-growth",
+        "sectionTitle": "النمو الروحي"
+    },
+    {
+        "id": 721,
+        "text": "اللهم اجعلني من أنصار دينك.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 722,
+        "text": "اللهم استعملني لنشر العلم والرحمة.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 723,
+        "text": "اللهم ارزقني دعوةً مؤثّرةً وإخلاصًا.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 724,
+        "text": "اللهم اجعل أثري خدمةً للإسلام.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 725,
+        "text": "اللهم اعصمني من الكِبر والعُجب في جهودي.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 726,
+        "text": "اللهم وفّقني لرفع الناس بلطفٍ وإحسان.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 727,
+        "text": "اللهم افتح لي أبواب خدمة دينك.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 728,
+        "text": "اللهم اجعل تمثيلي للإسلام بإحسانٍ وحكمة.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 729,
+        "text": "اللهم ارزقني قلبًا لا يعيش إلا لرضاك.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 730,
+        "text": "اللهم اجعل وقتي ومالي ومهاراتي صدقةً جاريةً.",
+        "sectionId": "service-deen",
+        "sectionTitle": "خدمة الدين والأمة"
+    },
+    {
+        "id": 731,
+        "text": "اللهم تقبّل جميع دعواتي، حتى ما نسيتُ منها.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 732,
+        "text": "اللهم اغفر لمن ظلمني واهدِه.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 733,
+        "text": "اللهم احفظ أحبّتي حين أعجز عن حفظهم.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 734,
+        "text": "اللهم اجعل دعائي نفعًا لأجيالٍ بعدي.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 735,
+        "text": "اللهم ارزقني حُسن الخاتمة بعد حياةِ عبادةٍ.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 736,
+        "text": "اللهم لا تجعل قلبي يَمَلّ من الدعاء.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 737,
+        "text": "اللهم تقبّل كل دمعةٍ صادقةٍ وهمسةِ دعاءٍ مني.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 738,
+        "text": "اللهم اجعل يوم لقائك أسعد أيامي.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 739,
+        "text": "اللهم اكتبني في زمرةِ المقرّبين لديك.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 740,
+        "text": "اللهم لا تجعلني أندم على حياتي في الآخرة.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 741,
+        "text": "اللهم اغفر تقصيري وضاعف حسناتي.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 742,
+        "text": "اللهم اجعل دعائي سببًا لتغيير حياتي للأفضل.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 743,
+        "text": "اللهم ارزقني حُسنَ الخاتمة.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 744,
+        "text": "اللهم ارحمني برحمتك وإن قصّرتُ في استحقاقها.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 745,
+        "text": "اللهم هيّئني للقاءك.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 746,
+        "text": "اللهم ارزقني الصبر حتى تجيب دعائي.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 747,
+        "text": "اللهم اجمعني بأحبّتي الصالحين في الجنة.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 748,
+        "text": "اللهم اكتب اسمي في ديوان المغفور لهم هذا العام.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 749,
+        "text": "اللهم ارفعني في الجنة بلا حسابٍ ولا عذاب.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 750,
+        "text": "اللهم تقبّل كل دعاءٍ صادق دعوتُه وسأدعوه.",
+        "sectionId": "acceptance-duas",
+        "sectionTitle": "إجابة الدعاء"
+    },
+    {
+        "id": 751,
+        "text": "اللهم ارزقني التوفيق في دراستي وامتحاناتي بيسرٍ وسهولة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 752,
+        "text": "اللهم بارك لي في علمٍ ينفعني وينفع الناس.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 753,
+        "text": "اللهم افتح ذهني لفهم المواد الصعبة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 754,
+        "text": "اللهم ارزقني قدرة الحفظ واستحضار المعلومات المهمة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 755,
+        "text": "اللهم احفظني من التوتر والقلق وقت الامتحانات.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 756,
+        "text": "اللهم بارك في أساتذتي ومشرفي بالعلم والصبر.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 757,
+        "text": "اللهم ارزقني مهارات الطبيب المتميّز والرحيم.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 758,
+        "text": "اللهم وفّقني لخدمة الإنسانية بحكمةٍ ولطف.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 759,
+        "text": "اللهم اجعل عملي سبب شفاءٍ ورحمةٍ للناس.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 760,
+        "text": "اللهم ارزقني الصبر والقوّة في أوقات التحدّي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 761,
+        "text": "اللهم أعنّي على التوازن بين عملي وأسرتي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 762,
+        "text": "اللهم بارك في جهدي بالنجاح والبركة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 763,
+        "text": "اللهم ثبّت إخلاصي في كل أعمالي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 764,
+        "text": "اللهم ارزقني احترام الناس وحُسن الخُلُق في مهنتي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 765,
+        "text": "اللهم قِني الاحتراق النفسي والإجهاد.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 766,
+        "text": "اللهم اجعل عملي عبادةً مقبولةً لديك.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 767,
+        "text": "اللهم وجّهني لطلب عونك والتوكّل عليك دائمًا.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 768,
+        "text": "اللهم وفّقني في كل خطوةٍ في مساري المهني.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 769,
+        "text": "اللهم ارزقني زملاء صالحين ومشرفين داعمين.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 770,
+        "text": "اللهم ألهمني التواضع والشكر عند الإنجاز.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 771,
+        "text": "اللهم ارزقني حكمةَ اتخاذ القرار.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 772,
+        "text": "اللهم قِني الكِبر والعُجب.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 773,
+        "text": "اللهم اجعل عملي نفعًا للمجتمع ونيلًا لرضاك.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 774,
+        "text": "اللهم أعنّي على تجاوز العقبات في مسيرتي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 775,
+        "text": "اللهم ارزقني الاستمرار في التعلّم والنمو.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 776,
+        "text": "اللهم بارك في مرضاي واجعلني سبب شفاءٍ لهم.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 777,
+        "text": "اللهم ارزقني السعادة والمعنى في عملي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 778,
+        "text": "اللهم احفظني من الأخطاء والتقصير.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 779,
+        "text": "اللهم وفّقني للتوازن بين الدنيا والدين في مهنتي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 780,
+        "text": "اللهم أعنّي على إدارة وقتي بفعالية.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 781,
+        "text": "اللهم ارزقني وضوحَ الذهن والتركيز في المهام.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 782,
+        "text": "اللهم ارزقني سمعةً طيبةً وثقةً عند الناس.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 783,
+        "text": "اللهم نمِّ فيَّ مهارات القيادة والعمل الجماعي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 784,
+        "text": "اللهم اجعلني قدوةً حسنةً في مهنتي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 785,
+        "text": "اللهم ارزقني الصبر لمواجهة التحديات بثبات.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 786,
+        "text": "اللهم ثبّت أخلاقي المهنية في كل عملي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 787,
+        "text": "اللهم ارزقني الابتكار وحلّ المشكلات برشدٍ وحكمة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 788,
+        "text": "اللهم وفّقني للتوازن بين الطموح والقناعة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 789,
+        "text": "اللهم اجعل نجاحي وسيلةً لمساعدة الآخرين.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 790,
+        "text": "اللهم ارزقني المرونة عند الفشل والقوّة للنهوض.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 791,
+        "text": "اللهم ثبّت قلبي على قصدِ رضِاك في عملي.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 792,
+        "text": "اللهم احفظ نيّتي من شواغل الدنيا.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 793,
+        "text": "اللهم ارزقني نموًّا وتحسّنًا دائمَين.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 794,
+        "text": "اللهم أعنّي على توازنٍ صحيٍّ بين العمل والحياة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 795,
+        "text": "اللهم ارزقني شجاعةَ خوض التحديات الجديدة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 796,
+        "text": "اللهم ذكّرني بك في كل لحظات العمل.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 797,
+        "text": "اللهم ارزقني حكمة إدارة الضغوط بفعالية.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 798,
+        "text": "اللهم اجعل مهنتي طريقًا لنشر رحمتك.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 799,
+        "text": "اللهم وفّقني للنجاح في كل اختبارٍ وتقييم.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 800,
+        "text": "اللهم أعنّي على التخرّج طبيبًا يخدم بإخلاصٍ ورحمة.",
+        "sectionId": "career-exams-doctor",
+        "sectionTitle": "التفوّق المهني"
+    },
+    {
+        "id": 801,
+        "text": "اللهم توفَّني مؤمنًا ثابتًا على دينك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 802,
+        "text": "اللهم ارزقني كلمة التوحيد على لساني عند الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 803,
+        "text": "اللهم قِني موتًا أليمًا وصعبًا.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 804,
+        "text": "اللهم اجعل قبري روضةً من رياض الجنة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 805,
+        "text": "اللهم اغفر ذنوبي وتقصيري عند الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 806,
+        "text": "اللهم ارزقني صحبة الأنبياء والصدّيقين والشهداء.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 807,
+        "text": "اللهم احفظ نفسي طاهرةً مطمئنةً يوم القيامة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 808,
+        "text": "اللهم تقبّل أعمالي وارحمني عند خروج الروح.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 809,
+        "text": "اللهم قِني عذاب القبر.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 810,
+        "text": "اللهم اجعل نفسي في سلامٍ وتسليمٍ لك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 811,
+        "text": "اللهم ارزقني التوبة قبل الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 812,
+        "text": "اللهم اجعل موتي سببًا لدخول الجنة بغير حساب.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 813,
+        "text": "اللهم تقبّل دعائي واغفر لأهلي بعد رحيلي.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 814,
+        "text": "اللهم ارزق أحبّتي صبرًا وإيمانًا بعد وفاتي.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 815,
+        "text": "اللهم اجعلني ممّن يموتون على تمام الإيمان وحسن العمل.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 816,
+        "text": "اللهم قِني الندم يوم القيامة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 817,
+        "text": "اللهم ارزقني قلبًا مطمئنًا عند مفارقة الدنيا.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 818,
+        "text": "اللهم اجمع روحي بالصالحين.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 819,
+        "text": "اللهم أعنّي على دوام العمل الصالح حتى آخر نَفَس.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 820,
+        "text": "اللهم ارزقني نورًا في ظلمة القبر.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 821,
+        "text": "اللهم اغفر لي ولوالديَّ واجعلنا من أهل الجنة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 822,
+        "text": "اللهم اجعلني ممّن يدخلون الجنة بغير سؤالٍ ولا حساب.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 823,
+        "text": "اللهم ارزقني أعلى منازل الجنة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 824,
+        "text": "اللهم اجعل موتي سببًا لقرب الناس منك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 825,
+        "text": "اللهم قِني شرَّ الدجال وفتنه.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 826,
+        "text": "اللهم ارزقني موتًا على الإيمان والتسليم لك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 827,
+        "text": "اللهم اغفر دُيوني وتقصيري قبل موتي.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 828,
+        "text": "اللهم ارزقني صحبة نبيّك محمد ﷺ في الآخرة.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 829,
+        "text": "اللهم اجعل قبري واسعًا منيرًا.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 830,
+        "text": "اللهم احفظ نفسي من العذاب والخوف بعد الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 831,
+        "text": "اللهم ارزقني رحمتك ومغفرتك فوق عملي.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 832,
+        "text": "اللهم أعنّي على عيش حياةٍ تليق برحمتك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 833,
+        "text": "اللهم تقبّل دعائي يوم ألقاك.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 834,
+        "text": "اللهم ارزقني الشجاعة والصبر عند الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 835,
+        "text": "اللهم اجعلني من أهل جنات النعيم.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 836,
+        "text": "اللهم اغفر ذنوبي وذنوب والديَّ وأهلي.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 837,
+        "text": "اللهم قِني عذاب النار.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 838,
+        "text": "اللهم اجعلني ممّن يدخلون الجنة بغير حساب.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 839,
+        "text": "اللهم ارزقني بركات حسن الختام.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 840,
+        "text": "اللهم تقبّل توبتي قبل أن أغادر الدنيا.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 841,
+        "text": "اللهم قِني وساوس الشيطان عند الموت.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 842,
+        "text": "اللهم ارزقني قول لا إله إلا الله عند آخر نَفَس.",
+        "sectionId": "righteous-death",
+        "sectionTitle": "حسن الخاتمة"
+    },
+    {
+        "id": 843,
+        "text": "اللهم حسِّن خُلقي كما حسَّنت خَلقي.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 844,
+        "text": "اللهم ارزقني التواضع في القول والعمل.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 845,
+        "text": "اللهم أبعد الكِبر عن قلبي.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 846,
+        "text": "اللهم اجعلني ليِّنًا في المعاملة ثابتًا على الحق.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 847,
+        "text": "اللهم اجعلني كريمًا بوقتي ومالي وعفوي.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 848,
+        "text": "اللهم أعنّي على الصدق ولو شقَّ عليَّ.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 849,
+        "text": "اللهم أعنّي على كظم الغيظ والردِّ بالفضل.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 850,
+        "text": "اللهم اجعلني من أهل الصبر والشكر.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 851,
+        "text": "اللهم نزِّهني من الكِبر والحسد والطمع.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 852,
+        "text": "اللهم اجعل خُلُقي مرضيًّا عندك محبوبًا عند خلقك.",
+        "sectionId": "good-character",
+        "sectionTitle": "حسن الخلق"
+    },
+    {
+        "id": 853,
+        "text": "اللهم ارزقني قلبًا مُحبًّا يُؤنس الآخرين.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 854,
+        "text": "اللهم اجعلني نورًا وسلامًا في البيوت.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 855,
+        "text": "اللهم ألهمني قول ما يرفع ولا يجرح.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 856,
+        "text": "اللهم اجعلني أملًا لمن ضلَّ طريقه.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 857,
+        "text": "اللهم اجعل المحبّة بيني وبين أهلي فيك.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 858,
+        "text": "اللهم أصلح بعطفك كل علاقةٍ انكسرت.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 859,
+        "text": "اللهم أخرج البغضاء والضغينة من قلبي.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 860,
+        "text": "اللهم اجعلني ممَّن يعفو ويُعفى عنه.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 861,
+        "text": "اللهم وفّقني لخدمة الفقراء والمحتاجين بإخلاص.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 862,
+        "text": "اللهم اجعلني رحمةً لوالديَّ وزوجي/زوجتي وأولادي وللأمة.",
+        "sectionId": "love-compassion",
+        "sectionTitle": "المحبة والرحمة"
+    },
+    {
+        "id": 863,
+        "text": "اللهم ارزقني خشوعًا في كل صلاة.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 864,
+        "text": "اللهم أعنّي على قيام التهجّد بإخلاص.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 865,
+        "text": "اللهم زد حبّي لذكرك وكتابك.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 866,
+        "text": "اللهم وفّقني لصيامٍ متواصلٍ على طاعتك.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 867,
+        "text": "اللهم ارزقني المحافظة على الصلاة في وقتها دائمًا.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 868,
+        "text": "اللهم اجعل قلبي يشتاق إلى المسجد.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 869,
+        "text": "اللهم ارزقني لذّة عبادتك في الخلوات.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 870,
+        "text": "اللهم طهّر نيّتي في كل عبادة.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 871,
+        "text": "اللهم اجعل خدمتي للناس عبادةً لك.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 872,
+        "text": "اللهم اجعلني ممَّن تقبل عبادتهم وتحبّهم.",
+        "sectionId": "excellence-worship",
+        "sectionTitle": "إتقان العبادة"
+    },
+    {
+        "id": 873,
+        "text": "اللهم بارك في وقتي بالمعنى والبركة.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 874,
+        "text": "اللهم وفّقني لاستخدام حياتي بحكمة قبل الموت.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 875,
+        "text": "اللهم لا تجعل لي لحظةً في الغفلة.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 876,
+        "text": "اللهم أعنّي على استثمار وقتي فيما ينفع آخرتي.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 877,
+        "text": "اللهم اجعل كل نَفَسٍ لي في مرضاتك.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 878,
+        "text": "اللهم رتّب أولوياتي على وفق رضاك.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 879,
+        "text": "اللهم زد إنتاجيَّتي وجنّبني الكسل.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 880,
+        "text": "اللهم أعنّي على التوازن بين واجبات الدنيا والدين.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 881,
+        "text": "اللهم بارك في روتين يومي وأعطه المعنى.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 882,
+        "text": "اللهم اجعلني ممَّن يقدِّرون الوقت ويحترمونه.",
+        "sectionId": "barakah-time",
+        "sectionTitle": "بركة الوقت والعمل"
+    },
+    {
+        "id": 883,
+        "text": "اللهم ارزقني موتًا على تمام الإيمان بك.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 884,
+        "text": "اللهم اجعل الكلمة الطيبة آخر كلامي.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 885,
+        "text": "اللهم ارزقني موتًا ببِشرٍ ونورِ قلبٍ.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 886,
+        "text": "اللهم اجعل قبري سلامًا ونورًا وانشراحًا.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 887,
+        "text": "اللهم قِني عذاب القبر.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 888,
+        "text": "اللهم اجعلني من أهل الظل يوم لا ظلَّ إلا ظلّك.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 889,
+        "text": "اللهم احشرني مع الصالحين والأنبياء.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 890,
+        "text": "اللهم آتني كتابي بيميني.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 891,
+        "text": "اللهم بلِّغني الصراط سالمًا سريعًا.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 892,
+        "text": "اللهم اجمعني بأحبّتي في الجنة.",
+        "sectionId": "righteous-death-hereafter",
+        "sectionTitle": "الاستعداد للآخرة"
+    },
+    {
+        "id": 893,
+        "text": "اللهم ارزقني الفردوس الأعلى بلا سؤال.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 894,
+        "text": "اللهم أدخلني الجنة مع الصالحين وبلا عقاب.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 895,
+        "text": "اللهم ارزقني لذّة النظر إلى وجهك في الآخرة.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 896,
+        "text": "اللهم اجعلني جارًا لنبيّك محمد ﷺ.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 897,
+        "text": "اللهم ارزقني قصورًا وأنهارًا وبساتين في الجنة.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 898,
+        "text": "اللهم اجعل كل ألمٍ في الدنيا أجرًا في الجنة.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 899,
+        "text": "اللهم قِني النار وعذابها.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 900,
+        "text": "اللهم اجعلني ممَّن رضيتَ عنهم أبدًا.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 901,
+        "text": "اللهم ثَقِّل ميزان حسناتي وخفّف سيئاتي.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 902,
+        "text": "اللهم أدخلني الجنة مع أهلي بفرحٍ وسرور.",
+        "sectionId": "jannah-final-abode",
+        "sectionTitle": "الجنة دار القرار"
+    },
+    {
+        "id": 903,
+        "text": "اللهم تقبّل حجّنا وعمرتنا أجرًا كاملاً.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 904,
+        "text": "اللهم ادعُنا إلى بيتك الحرام أنا وأهلي.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 905,
+        "text": "اللهم ارزقنا الإخلاص واليُسر والطهارة في المناسك.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 906,
+        "text": "اللهم اغفر ذنوبنا عند الرجوع من الحج.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 907,
+        "text": "اللهم اجعل عمرتنا رحلةً مغيرةً للقلوب.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 908,
+        "text": "اللهم تقبّل كل سجدةٍ ودمعةٍ ودعاءٍ في مكة والمدينة.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 909,
+        "text": "اللهم ارزقنا زيارة بيتك مرارًا وتكرارًا.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 910,
+        "text": "اللهم توفَّنا وقد أدَّينا نسكنا.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 911,
+        "text": "اللهم بارك لكل حاجٍّ واجعل حجهم مبرورًا.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 912,
+        "text": "اللهم ارفعنا في زمرة الحُجّاج الذين شرَّفت أسماءهم.",
+        "sectionId": "acceptance-hajj-umrah",
+        "sectionTitle": "قبول الحج والعمرة"
+    },
+    {
+        "id": 913,
+        "text": "اللهم فرِّج كرب كلِّ مظلومٍ من المسلمين.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 914,
+        "text": "اللهم أطعم الجائع واكسُ العاري في كل مكان.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 915,
+        "text": "اللهم أَخرِج المظلومين من السجون.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 916,
+        "text": "اللهم احفظ المسجد الأقصى وحرِّر المظلومين.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 917,
+        "text": "اللهم أجرِ العدل حيث وقع الظلم.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 918,
+        "text": "اللهم أنزِل السَّلام على بلاد الحروب وأهلها.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 919,
+        "text": "اللهم أحيِ أمتنا بالعلم والرحمة.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 920,
+        "text": "اللهم ارزقنا جيلًا يُحيي الإسلام بحكمة.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 921,
+        "text": "اللهم وحِّد قلوب المسلمين في كل مكان.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 922,
+        "text": "اللهم اغفر تقصيرنا في نصرة أمتنا.",
+        "sectionId": "global-ummah",
+        "sectionTitle": "الأمة والعدل"
+    },
+    {
+        "id": 923,
+        "text": "اللهم اهدني في شبابي وشيخوختي.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 924,
+        "text": "اللهم ارزقني بركةً في الصحة والرزق.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 925,
+        "text": "اللهم احفظني في خلواتي وبين الناس.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 926,
+        "text": "اللهم اهدني في كل مراحل حياتي.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 927,
+        "text": "اللهم لا تجعلني من الغافلين عند الرخاء.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 928,
+        "text": "اللهم لا تجعلني أقنط عند الشدة.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 929,
+        "text": "اللهم أعنّي على تجاوز كل اختبارٍ بالإيمان.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 930,
+        "text": "اللهم احفظ نفسي وبدني وقلبي وعقلي من الأذى.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 931,
+        "text": "اللهم اجعلني شاكرًا في كل حال.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 932,
+        "text": "اللهم لا تجعلني أسقط في خرابٍ روحيٍّ أبدًا.",
+        "sectionId": "entire-lives",
+        "sectionTitle": "دعوات للحياة كلها"
+    },
+    {
+        "id": 933,
+        "text": "اللهم تقبّل حياتي كلَّها إرثًا صالحًا.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 934,
+        "text": "اللهم ارزقني صدقةً جاريةً بعد موتي.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 935,
+        "text": "اللهم اجعل أقوالي وأعمالي وعلمي باقيًا في الخير.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 936,
+        "text": "اللهم اجعل أسرتي سبب صدقةٍ جاريةٍ لي.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 937,
+        "text": "اللهم اجعل نفعِي للناس ممتدًّا بعد رحيلي.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 938,
+        "text": "اللهم اكتبني في مَن ألهموا الخير لغيرهم.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 939,
+        "text": "اللهم بارك اسمي ليُذكَر في رضاك.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 940,
+        "text": "اللهم اجعل دعاء أبنائي سبب رفعةٍ لي.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 941,
+        "text": "اللهم اكتب قصتي مع من عاشوا لك وفقط.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 942,
+        "text": "اللهم ارفع درجتي بعد موتي بدعاء الناس.",
+        "sectionId": "lifetime-acceptance",
+        "sectionTitle": "قبول دائم وأثر طيب"
+    },
+    {
+        "id": 943,
+        "text": "اللهم اغفر لوالديَّ وأجدادي وأسلافنا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 944,
+        "text": "اللهم احفظ ذريّتي واهدِهم.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 945,
+        "text": "اللهم اجمعنا على طريق الإسلام.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 946,
+        "text": "اللهم قِني الغفلة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 947,
+        "text": "اللهم ارزقني حبَّك فوق كل حب.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 948,
+        "text": "اللهم احفظ بصري وسمعي وجوارحي من المعاصي.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 949,
+        "text": "اللهم اكتبني من أوليائك الصالحين.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 950,
+        "text": "اللهم املأ بيتي نورًا وسلامًا وهُدىً.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 951,
+        "text": "اللهم اجعل لساني رطبًا بذكرك دائمًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 952,
+        "text": "اللهم أرِني الحقَّ حقًّا وارزقني اتّباعه، والباطلَ باطلًا وارزقني اجتنابه.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 953,
+        "text": "اللهم قِني كلَّ فتنةٍ ما ظهر منها وما بطن.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 954,
+        "text": "اللهم اجعلني أحبُّ ما تحبُّ وأبغضُ ما تبغض.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 955,
+        "text": "اللهم اجعلني ممَّن تُستجاب دعواتهم دائمًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 956,
+        "text": "اللهم أغنِني بالقناعة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 957,
+        "text": "اللهم ارزقني التوفيق في كل عملٍ صالح.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 958,
+        "text": "اللهم ارفع روحي في الدنيا والآخرة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 959,
+        "text": "اللهم طهّر قلبي حتى لا ينبض إلا لك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 960,
+        "text": "اللهم اجعل كلَّ جوارحي مطيعةً لك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 961,
+        "text": "اللهم لا تجعل قلبي يقسو.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 962,
+        "text": "اللهم احفظ أهلي من الفتن والمصائب.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 963,
+        "text": "اللهم صلِّ وسلِّم على نبينا محمد ﷺ.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 964,
+        "text": "اللهم تقبّل كل نيّةٍ صالحة في قلبي.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 965,
+        "text": "اللهم ارزقني صحبة الصالحين دائمًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 966,
+        "text": "اللهم تقبّلني خادمًا للقرآن والسنّة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 967,
+        "text": "اللهم نوِّر قبري بالرحمة والسكينة واليسر.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 968,
+        "text": "اللهم افتح لي أبوابًا لم أتخيّلها قط.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 969,
+        "text": "اللهم قِني النفاق في الاعتقاد والعمل.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 970,
+        "text": "اللهم لا تتركني ولو للحظة، وإن زللت.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 971,
+        "text": "اللهم اجعل نفسي خفيفةً طاهرةً يوم ألقاك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 972,
+        "text": "اللهم أكرمني بالقرب الأبدي منك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 973,
+        "text": "اللهم اجعل حياتي كلَّها إعدادًا للجنة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 974,
+        "text": "اللهم أعنّي على العفو عمَّن ظلمني.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 975,
+        "text": "اللهم ارفع درجتي برحمتك الواسعة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 976,
+        "text": "اللهم اختم حياتي وأنت راضٍ عني.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 977,
+        "text": "اللهم اغفر للأحياء والأموات من هذه الأمة.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 978,
+        "text": "اللهم احفظ شباب أمتنا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 979,
+        "text": "اللهم أحيِ قلوبنا بحبك وذكرك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 980,
+        "text": "اللهم زدنا علمًا وفهمًا في الدين.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 981,
+        "text": "اللهم أحينا وأمتنا على لا إله إلا الله.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 982,
+        "text": "اللهم ارزقنا رزقًا طيبًا حلالًا مباركًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 983,
+        "text": "اللهم طهّرنا قبل أن نلقاك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 984,
+        "text": "اللهم أكرم أرواحنا عند الموت وما بعده.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 985,
+        "text": "اللهم يسّر حسابنا واجعل طريقنا مستقيمًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 986,
+        "text": "اللهم املأ موازيننا جبالًا من الحسنات.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 987,
+        "text": "اللهم توفّنا بسجلٍّ نقيٍّ وقلبٍ راجٍ.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 988,
+        "text": "اللهم لا تجعل ذنوبنا تغلب رحمتك أبدًا.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 989,
+        "text": "اللهم اغفر لمن لا يجدون من يدعو لهم.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 990,
+        "text": "اللهم اجعلنا من الناجين يوم الفزع الأكبر.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 991,
+        "text": "اللهم أدخلنا الجنة بوجوهٍ باسمةٍ بلا ندم.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 992,
+        "text": "اللهم ارزقنا قربك أبد الآبدين.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 993,
+        "text": "اللهم اختم لي حياتي برضاك عني.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 994,
+        "text": "اللهم قوِّني حين تفارق الروحُ الجسد.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 995,
+        "text": "اللهم جازِني على كل دمعةٍ صامتةٍ كانت لك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 996,
+        "text": "اللهم لا تقطع هدايتك عني أينما كنت.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 997,
+        "text": "اللهم أتمِم إيماني قبل أن تدعوني إليك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 998,
+        "text": "اللهم اجعلني من الشاكرين على كل حالٍ ومآل.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 999,
+        "text": "اللهم لا تتركني بلا عونٍ ولا رحمةٍ منك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    },
+    {
+        "id": 1000,
+        "text": "اللهم اختم حياتي بذكرك، واجعل خلودي في حضرتك.",
+        "sectionId": "final-comprehensive",
+        "sectionTitle": "أدعية جامعة"
+    }
+]

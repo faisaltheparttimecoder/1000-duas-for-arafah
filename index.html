@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" dir="ltr">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -57,7 +57,30 @@
                 </div>
 
                 <div class="top-bar-right">
-                    <div class="search-container">
+                    <!-- Mobile-only: search toggle icon -->
+                    <button
+                        class="search-toggle"
+                        type="button"
+                        aria-label="Open search"
+                        aria-expanded="false"
+                    >
+                        <svg
+                            width="20"
+                            height="20"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            aria-hidden="true"
+                        >
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                    </button>
+
+                    <div class="search-container" id="search-bar">
                         <label for="search-input" class="visually-hidden">Search duas</label>
                         <svg
                             class="search-icon"
@@ -169,6 +192,20 @@
                                 <line x1="3" y1="9" x2="21" y2="9"></line>
                                 <line x1="9" y1="21" x2="9" y2="9"></line>
                             </svg>
+                        </button>
+                    </div>
+
+                    <div class="lang-switcher" role="group" aria-label="Language">
+                        <button
+                            class="lang-btn active"
+                            type="button"
+                            data-lang="en"
+                            aria-pressed="true"
+                        >
+                            EN
+                        </button>
+                        <button class="lang-btn" type="button" data-lang="ar" aria-pressed="false">
+                            AR
                         </button>
                     </div>
 

@@ -4,8 +4,6 @@
 
 ### 1. Add Complete Duas Data
 
-- [ ] Create `scripts/duas_raw.txt` with all 1000 Duas for Arafah
-- [ ] Run `node scripts/process-duas.js`
 - [ ] Verify `data/duas.json` has exactly 1000 entries
 - [ ] Check JSON is valid (no syntax errors)
 - [ ] Verify all section mappings are correct
@@ -89,7 +87,7 @@
 
 - [ ] Single column layout
 - [ ] Sidebar drawer works smoothly
-- [ ] Search bar fits properly
+- [ ] Search bar fits properly; mobile search toggle opens bar below navbar
 - [ ] Modal fits screen
 - [ ] Touch targets large enough (44px+)
 
@@ -168,6 +166,19 @@
 - [ ] Section titles match specification
 - [ ] No typos in dua text
 - [ ] Proper punctuation and formatting
+
+### 11. PDF Export (English & Arabic)
+
+- [ ] English export renders vector text, left-aligned
+- [ ] Arabic export loads embedded font, renders properly right-aligned
+- [ ] No overlapping between number and text
+- [ ] Multi-page sections break correctly
+
+### 12. Print Stylesheet
+
+- [ ] Compact layout: number and text start on the same line
+- [ ] Minimal spacing between duas
+- [ ] Section headers render with tight spacing
 
 ---
 

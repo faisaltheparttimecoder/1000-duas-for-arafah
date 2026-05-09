@@ -33,8 +33,9 @@ Your modern, reverent web application for 1000 Duas for Arafah is now fully buil
 
 - ✅ `assets/js/app.js` - Main application controller
 - ✅ `assets/js/theme.js` - Theme management (system/light/dark)
-- ✅ `assets/js/search.js` - Live search with debouncing
+- ✅ `assets/js/search.js` - Live search with debouncing (with mobile toggle)
 - ✅ `assets/js/views.js` - Three view modes (cards/list/table)
+- ✅ `assets/js/pdf-generator.js` - PDF export with Arabic/English support
 - ✅ All modules use vanilla ES6+ JavaScript (no frameworks)
 
 #### Data Files
@@ -51,9 +52,7 @@ Your modern, reverent web application for 1000 Duas for Arafah is now fully buil
 
 #### Build Scripts
 
-- ✅ `scripts/process-duas.js` - Node.js processor for generating duas.json
-- ✅ `scripts/generate_duas.py` - Python alternative processor
-- ✅ Automated section mapping
+No separate build scripts required anymore. The site ships as a static app (HTML/CSS/JS). Data can be edited directly in `data/*.json`.
 
 #### Documentation
 
@@ -111,6 +110,7 @@ Your modern, reverent web application for 1000 Duas for Arafah is now fully buil
 - ✅ Results counter
 - ✅ Clear button
 - ✅ Keyboard shortcut (`/` to focus, `Esc` to clear)
+- ✅ Mobile search toggle: icon in navbar opens a full-width search bar below
 
 ### View Modes
 
@@ -165,32 +165,26 @@ Your modern, reverent web application for 1000 Duas for Arafah is now fully buil
 
 ```
 Dua/
-├── index.html                    # 7.8 KB - Main entry
-├── service-worker.js             # 1.3 KB - Offline support
-├── package.json                  # NPM scripts
+├── index.html                    # Main entry
+├── service-worker.js             # Offline support
 ├── .gitignore                    # Git ignore rules
 │
 ├── assets/
 │   ├── css/
-│   │   └── styles.css            # 12 KB - All styles
+│   │   └── styles.css            # All styles (includes compact print rules)
 │   └── js/
 │       ├── app.js                # Main controller
 │       ├── theme.js              # Theme management
-│       ├── search.js             # Search logic
-│       └── views.js              # View rendering
+│       ├── search.js             # Search logic (mobile toggle)
+│       ├── views.js              # View rendering
+│       └── pdf-generator.js      # Arabic/English PDF export
 │
 ├── data/
-│   ├── duas.json                 # Sample (ready for 1000)
-│   ├── duas-full.json            # Backup
+│   ├── duas.json                 # English duas
+│   ├── duas.ar.json              # Arabic duas (optional)
 │   └── sections.json             # 40 sections
 │
-├── scripts/
-│   ├── process-duas.js           # Node.js processor
-│   ├── generate_duas.py          # Python processor
-│   ├── parse-duas.js             # Template parser
-│   └── build-data.js             # Original builder
-│
-└── Documentation/
+└── doc/
     ├── README.md                 # Public readme
     ├── SETUP.md                  # Setup guide
     ├── QUICKSTART.md             # Quick reference
@@ -289,7 +283,6 @@ Then enable GitHub Pages in Settings → Pages.
 ### Non-Goals (Respected) ✅
 
 - ❌ No audio recitations
-- ❌ No Arabic text (English only)
 - ❌ No user accounts
 - ❌ No social features
 - ❌ No push notifications
@@ -354,9 +347,8 @@ Then enable GitHub Pages in Settings → Pages.
 ### Print Support
 
 - Strips UI chrome
-- Shows duas as numbered paragraphs
-- Grouped by section
-- Clean, readable output
+- Compact layout: number + dua text start on same line
+- Grouped by section with tight spacing
 
 ### Offline First
 

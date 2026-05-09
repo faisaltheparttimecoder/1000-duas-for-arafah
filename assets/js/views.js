@@ -6,6 +6,16 @@ class ViewManager {
         this.currentView = this.loadView();
         this.container = document.getElementById('duas-container');
         this.buttons = document.querySelectorAll('.view-btn');
+        this.getStrings = () => {
+            const htmlLang = document.documentElement.getAttribute('lang') || 'en';
+            const isAr = htmlLang.toLowerCase().startsWith('ar');
+            return {
+                results: isAr ? 'النتائج' : 'Results',
+                duas: isAr ? 'دعاء' : 'duas',
+                tableDua: isAr ? 'الدعاء' : 'Dua',
+                tableSection: isAr ? 'القسم' : 'Section',
+            };
+        };
 
         this.init();
     }
@@ -48,6 +58,7 @@ class ViewManager {
     }
 
     renderCards(duas, sections) {
+        const strings = this.getStrings();
         const grouped = this.groupBySection(duas, sections);
 
         return grouped
@@ -56,7 +67,7 @@ class ViewManager {
       <div class="section-group" id="section-${section.id}">
         <div class="section-header">
           <h2>${section.title}</h2>
-          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} duas</p>
+          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} ${strings.duas}</p>
         </div>
         <div class="duas-container" data-view="cards">
           ${duas
@@ -77,6 +88,7 @@ class ViewManager {
     }
 
     renderList(duas, sections) {
+        const strings = this.getStrings();
         const grouped = this.groupBySection(duas, sections);
 
         return grouped
@@ -85,7 +97,7 @@ class ViewManager {
       <div class="section-group" id="section-${section.id}">
         <div class="section-header">
           <h2>${section.title}</h2>
-          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} duas</p>
+          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} ${strings.duas}</p>
         </div>
         ${duas
             .map(
@@ -104,6 +116,7 @@ class ViewManager {
     }
 
     renderTable(duas, sections) {
+        const strings = this.getStrings();
         const grouped = this.groupBySection(duas, sections);
 
         return grouped
@@ -112,14 +125,14 @@ class ViewManager {
       <div class="section-group" id="section-${section.id}">
         <div class="section-header">
           <h2>${section.title}</h2>
-          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} duas</p>
+          <p class="section-meta">${section.range[0]}–${section.range[1]} · ${duas.length} ${strings.duas}</p>
         </div>
         <table class="duas-table">
           <thead>
             <tr>
               <th>#</th>
-              <th>Dua</th>
-              <th>Section</th>
+              <th>${strings.tableDua}</th>
+              <th>${strings.tableSection}</th>
             </tr>
           </thead>
           <tbody>
@@ -143,6 +156,7 @@ class ViewManager {
     }
 
     render(duas, sections, searchQuery = '') {
+        const strings = this.getStrings();
         let html = '';
 
         if (searchQuery) {
@@ -152,7 +166,7 @@ class ViewManager {
                 html = `
           <div class="section-group">
             <div class="section-header">
-              <h2>Results (${filtered.length})</h2>
+              <h2>${strings.results} (${filtered.length})</h2>
             </div>
             <div class="duas-container" data-view="cards">
               ${filtered
@@ -172,7 +186,7 @@ class ViewManager {
                 html = `
           <div class="section-group">
             <div class="section-header">
-              <h2>Results (${filtered.length})</h2>
+              <h2>${strings.results} (${filtered.length})</h2>
             </div>
             ${filtered
                 .map(
@@ -190,14 +204,14 @@ class ViewManager {
                 html = `
           <div class="section-group">
             <div class="section-header">
-              <h2>Results (${filtered.length})</h2>
+              <h2>${strings.results} (${filtered.length})</h2>
             </div>
             <table class="duas-table">
               <thead>
                 <tr>
                   <th>#</th>
-                  <th>Dua</th>
-                  <th>Section</th>
+                  <th>${strings.tableDua}</th>
+                  <th>${strings.tableSection}</th>
                 </tr>
               </thead>
               <tbody>
